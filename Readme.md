@@ -1,6 +1,6 @@
 # Want to see the Oscar race? Check out this project
 
-![Oscar](data/oscars.png)
+![Oscar](https://www.towncenterzumpango.com.mx/wp-content/uploads/2020/01/premios-oscar-2020.jpg)
 
 Since we are in the Oscar season, to make the wait more enjoyable I have created this project to analyze the Oscar race. I have compiled, filtered, cleaned and graphed information about the awards, from 1990 to 2020, that I consider most relevant to this race; Golden Globes, SAG (Screen Actor Guild Awards), Critics' Choice Movie Awards and of course the Oscars. In order to see the correlation of the awards and in the future, be able to make a predictive analysis of the winners, and keep it updated!
 
@@ -9,9 +9,6 @@ Since we are in the Oscar season, to make the wait more enjoyable I have created
 2. [Usage](#usage)
 3. [Examples](#examples)
 4. [Documentation](#documentation)
-5. [Contribution](#contribution)
-6. [Support](#support)
-7. [License](#license)
 
 ## Getting Started
 
@@ -22,11 +19,13 @@ Since we are in the Oscar season, to make the wait more enjoyable I have created
 - [Virtualenv](https://virtualenv.pypa.io/en/latest/) (optional)
 
 ### Installation
+
 1. Clone the repository:
 https://github.com/JN2187/Oscar_Race.git
 2. Create a virtual environment (optional but recommended)
 
 ### Dependencies
+
 This project depends on the following libraries:
 - pandas
 - re
@@ -38,12 +37,37 @@ This project depends on the following libraries:
 - [pymongo](https://pypi.org/project/pymongo/)
 
 ### Troubleshooting
+
 - If you run into issues installing the dependencies, make sure you have the latest version of pip and try again.
 
 
 ## Usage
 
-Clear and concise instructions on how to use the project, including any command-line options or configuration settings.
+Folder scheme: Inside Oscar_Race you can find a data folder, which contains all the csv files of this project. The ones I have used for the cleanup taken from [Kaggle](https://www.kaggle.com/);
+- [the_oscar_award](https://www.kaggle.com/datasets/unanimad/the-oscar-award)
+- [golden_globe_awards](https://www.kaggle.com/datasets/unanimad/golden-globe-awards)
+- [screen_actor_guild_awards](https://www.kaggle.com/datasets/unanimad/screen-actors-guild-awards)
+
+The ones I've created from these with their respective cleaning and standardization;
+- [Oscar_clean](data/Oscar_clean.csv)
+- [Golden_Globes_clean](data/Golden_Globes_clean.csv)
+- [SAG_clean](data/AG_clean.csv)
+
+And also the ones I´ve created from [wikipedia](https://en.wikipedia.org/wiki/Critics%27_Choice_Movie_Awards#Categories) web scraping and their respective cleaning and standardization;
+- [Best_Picture_soup_cca](data/Best_Picture_soup_cca.csv)
+- [Actor_In_A_Leading_Role_soup_cca](data/Actor_In_A_Leading_Role_soup_cca.csv)
+- [Actor_In_A_Supporting_Role_soup_cca](data/Actor_In_A_Supporting_Role_soup_cca.csv)
+- [Actress_In_A_Leading_Role_soup_cca](data/Actress_In_A_Leading_Role_soup_cca.csv)
+- [Actress_In_A_Supporting_Role_soup_cca](data/Actress_In_A_Supporting_Role_soup_cca.csv)
+- [CCA_clean](data/CCA_clean.csv)
+
+And finally all awards gathered in a single csv:
+- [Cinema_Awards](data/Cinema_Awards.csv)
+
+In the notebooks folder I have all the code I have used for each of the cleaning, web scraping, storage and visualization tasks.
+
+In the src folder I have a .py document called [support](src/support.py) where I collect all the functions that I've used in my project.
+
 
 ## Examples
 
@@ -61,16 +85,9 @@ In this project I have used the following Python libraries:
 - [seaborn](https://pypi.org/project/seaborn/)
 - [pymongo](https://pypi.org/project/pymongo/)
 
-## Contribution
-
-Instructions on how others can contribute to the project, including guidelines for submitting pull requests.
-
-## Support
-
-List of any support channels, such as a mailing list or community forum, where users can ask for help or provide feedback.
-
 ## License
 
 The open-source license the project is released under.
 
-![Leo Dance](https://media2.giphy.com/media/AbDCwAI2xTwTm/giphy.gif?cid=790b761162ebc2b65306a1767bceffddf4021c5583ae566e&rid=giphy.gif&ct=g)
+## Enjoy!🙌
+<img src="https://media2.giphy.com/media/AbDCwAI2xTwTm/giphy.gif?cid=790b761162ebc2b65306a1767bceffddf4021c5583ae566e&rid=giphy.gif&ct=g" width="400" height="400">
