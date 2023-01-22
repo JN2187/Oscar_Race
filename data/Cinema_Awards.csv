@@ -91,7 +91,7 @@
 89,1991,Writing (Original Screenplay),Whit Stillman,Metropolitan,Nominee,No,No,No
 90,1992,Actor In A Leading Role,Warren Beatty,Bugsy,Nominee,No,No,No
 91,1992,Actor In A Leading Role,Robert De Niro,Cape Fear,Nominee,No,No,No
-92,1992,Actor In A Leading Role,Anthony Hopkins,"Silence Of The Lambs, The",Winner,No,No,No
+92,1992,Actor In A Leading Role,Anthony Hopkins,The Silence Of The Lambs,Winner,No,No,No
 93,1992,Actor In A Leading Role,Nick Nolte,"Prince Of Tides, The",Nominee,No,No,No
 94,1992,Actor In A Leading Role,Robin Williams,"Fisher King, The",Nominee,No,No,No
 95,1992,Actor In A Supporting Role,Tommy Lee Jones,Jfk,Nominee,No,No,No
@@ -101,7 +101,7 @@
 99,1992,Actor In A Supporting Role,Jack Palance,City Slickers,Winner,No,No,No
 100,1992,Actress In A Leading Role,Geena Davis,Thelma & Louise,Nominee,No,No,No
 101,1992,Actress In A Leading Role,Laura Dern,Rambling Rose,Nominee,No,No,No
-102,1992,Actress In A Leading Role,Jodie Foster,"Silence Of The Lambs, The",Winner,No,No,No
+102,1992,Actress In A Leading Role,Jodie Foster,The Silence Of The Lambs,Winner,No,No,No
 103,1992,Actress In A Leading Role,Bette Midler,For The Boys,Nominee,No,No,No
 104,1992,Actress In A Leading Role,Susan Sarandon,Thelma & Louise,Nominee,No,No,No
 105,1992,Actress In A Supporting Role,Diane Ladd,Rambling Rose,Nominee,No,No,No
@@ -112,7 +112,7 @@
 110,1992,Directing,John Singleton,Boyz N The Hood,Nominee,No,No,No
 111,1992,Directing,Barry Levinson,Bugsy,Nominee,No,No,No
 112,1992,Directing,Oliver Stone,Jfk,Nominee,No,No,No
-113,1992,Directing,Jonathan Demme,"Silence Of The Lambs, The",Winner,No,No,No
+113,1992,Directing,Jonathan Demme,The Silence Of The Lambs,Winner,No,No,No
 114,1992,Directing,Ridley Scott,Thelma & Louise,Nominee,No,No,No
 115,1992,International Feature Film,Iceland,Children Of Nature,Nominee,No,No,No
 116,1992,International Feature Film,Czechoslovakia,The Elementary School,Nominee,No,No,No
@@ -123,12 +123,12 @@
 121,1992,Best Picture,"Mark Johnson, Barry Levinson and Warren Beatty, Producers",Bugsy,Nominee,No,No,No
 122,1992,Best Picture,"A. Kitman Ho and Oliver Stone, Producers",Jfk,Nominee,No,No,No
 123,1992,Best Picture,"Barbra Streisand and Andrew Karsch, Producers","Prince Of Tides, The",Nominee,No,No,No
-124,1992,Best Picture,"Edward Saxon, Kenneth Utt and Ron Bozman, Producers","Silence Of The Lambs, The",Winner,No,No,No
+124,1992,Best Picture,"Edward Saxon, Kenneth Utt and Ron Bozman, Producers",The Silence Of The Lambs,Winner,No,No,No
 125,1992,Writing (Adapted Screenplay),Agnieszka Holland,Europa Europa,Nominee,No,No,No
 126,1992,Writing (Adapted Screenplay),"Fannie Flagg, Carol Sobieski",Fried Green Tomatoes,Nominee,No,No,No
 127,1992,Writing (Adapted Screenplay),"Oliver Stone, Zachary Sklar",Jfk,Nominee,No,No,No
 128,1992,Writing (Adapted Screenplay),"Pat Conroy, Becky Johnston","Prince Of Tides, The",Nominee,No,No,No
-129,1992,Writing (Adapted Screenplay),Ted Tally,"Silence Of The Lambs, The",Winner,No,No,No
+129,1992,Writing (Adapted Screenplay),Ted Tally,The Silence Of The Lambs,Winner,No,No,No
 130,1992,Writing (Original Screenplay),John Singleton,Boyz N The Hood,Nominee,No,No,No
 131,1992,Writing (Original Screenplay),James Toback,Bugsy,Nominee,No,No,No
 132,1992,Writing (Original Screenplay),Richard LaGravenese,"Fisher King, The",Nominee,No,No,No
@@ -954,7 +954,7 @@
 952,2011,Actor In A Leading Role,Jesse Eisenberg,The Social Network,Nominee,No,No,No
 953,2011,Actor In A Leading Role,Colin Firth,The King'S Speech,Winner,No,No,No
 954,2011,Actor In A Leading Role,James Franco,127 Hours,Nominee,No,No,No
-955,2011,Actor In A Supporting Role,Christian Bale,"Fighter, The",Winner,No,No,No
+955,2011,Actor In A Supporting Role,Christian Bale,The Fighter,Winner,No,No,No
 956,2011,Actor In A Supporting Role,John Hawkes,Winter'S Bone,Nominee,No,No,No
 957,2011,Actor In A Supporting Role,Jeremy Renner,"Town, The",Nominee,No,No,No
 958,2011,Actor In A Supporting Role,Mark Ruffalo,"Kids Are All Right, The",Nominee,No,No,No
@@ -964,13 +964,13 @@
 962,2011,Actress In A Leading Role,Jennifer Lawrence,Winter'S Bone,Nominee,No,No,No
 963,2011,Actress In A Leading Role,Natalie Portman,Black Swan,Winner,No,No,No
 964,2011,Actress In A Leading Role,Michelle Williams,Blue Valentine,Nominee,No,No,No
-965,2011,Actress In A Supporting Role,Amy Adams,"Fighter, The",Nominee,No,No,No
+965,2011,Actress In A Supporting Role,Amy Adams,The Fighter,Nominee,No,No,No
 966,2011,Actress In A Supporting Role,Helena Bonham Carter,The King'S Speech,Nominee,No,No,No
-967,2011,Actress In A Supporting Role,Melissa Leo,"Fighter, The",Winner,No,No,No
+967,2011,Actress In A Supporting Role,Melissa Leo,The Fighter,Winner,No,No,No
 968,2011,Actress In A Supporting Role,Hailee Steinfeld,True Grit,Nominee,No,No,No
 969,2011,Actress In A Supporting Role,Jacki Weaver,Animal Kingdom,Nominee,No,No,No
 970,2011,Directing,Darren Aronofsky,Black Swan,Nominee,No,No,No
-971,2011,Directing,David O. Russell,"Fighter, The",Nominee,No,No,No
+971,2011,Directing,David O. Russell,The Fighter,Nominee,No,No,No
 972,2011,Directing,Tom Hooper,The King'S Speech,Winner,No,No,No
 973,2011,Directing,David Fincher,The Social Network,Nominee,No,No,No
 974,2011,Directing,Joel Coen and Ethan Coen,True Grit,Nominee,No,No,No
@@ -980,7 +980,7 @@
 978,2011,International Feature Film,Canada,Incendies,Nominee,No,No,No
 979,2011,International Feature Film,Algeria,Outside The Law (Hors-La-Loi),Nominee,No,No,No
 980,2011,Best Picture,"Mike Medavoy, Brian Oliver and Scott Franklin, Producers",Black Swan,Nominee,No,No,No
-981,2011,Best Picture,"David Hoberman, Todd Lieberman and Mark Wahlberg, Producers","Fighter, The",Nominee,No,No,No
+981,2011,Best Picture,"David Hoberman, Todd Lieberman and Mark Wahlberg, Producers",The Fighter,Nominee,No,No,No
 982,2011,Best Picture,"Emma Thomas and Christopher Nolan, Producers",Inception,Nominee,No,No,No
 983,2011,Best Picture,"Gary Gilbert, Jeffrey Levy-Hinte and Celine Rattray, Producers","Kids Are All Right, The",Nominee,No,No,No
 984,2011,Best Picture,"Iain Canning, Emile Sherman and Gareth Unwin, Producers",The King'S Speech,Winner,No,No,No
@@ -995,7 +995,7 @@
 993,2011,Writing (Adapted Screenplay),Written for the screen by Joel Coen & Ethan Coen,True Grit,Nominee,No,No,No
 994,2011,Writing (Adapted Screenplay),Adapted for the screen by Debra Granik & Anne Rosellini,Winter'S Bone,Nominee,No,No,No
 995,2011,Writing (Original Screenplay),Written by Mike Leigh,Another Year,Nominee,No,No,No
-996,2011,Writing (Original Screenplay),Screenplay by Scott Silver and Paul Tamasy & Eric Johnson; Story by Keith Dorrington & Paul Tamasy & Eric Johnson,"Fighter, The",Nominee,No,No,No
+996,2011,Writing (Original Screenplay),Screenplay by Scott Silver and Paul Tamasy & Eric Johnson; Story by Keith Dorrington & Paul Tamasy & Eric Johnson,The Fighter,Nominee,No,No,No
 997,2011,Writing (Original Screenplay),Written by Christopher Nolan,Inception,Nominee,No,No,No
 998,2011,Writing (Original Screenplay),Written by Lisa Cholodenko & Stuart Blumberg,"Kids Are All Right, The",Nominee,No,No,No
 999,2011,Writing (Original Screenplay),Screenplay by David Seidler,The King'S Speech,Winner,No,No,No
@@ -1160,16 +1160,16 @@
 1158,2015,Actress In A Leading Role,Felicity Jones,The Theory Of Everything,Nominee,No,No,No
 1159,2015,Actress In A Leading Role,Julianne Moore,Still Alice,Winner,No,No,No
 1160,2015,Actress In A Leading Role,Rosamund Pike,Gone Girl,Nominee,No,No,No
-1161,2015,Actress In A Leading Role,Reese Witherspoon,Wild,Nominee,No,No,No
+1161,2015,Actress In A Leading Role,Reese Witherspoon,Wild Tales,Nominee,No,No,No
 1162,2015,Actress In A Supporting Role,Patricia Arquette,Boyhood,Winner,No,No,No
-1163,2015,Actress In A Supporting Role,Laura Dern,Wild,Nominee,No,No,No
+1163,2015,Actress In A Supporting Role,Laura Dern,Wild Tales,Nominee,No,No,No
 1164,2015,Actress In A Supporting Role,Keira Knightley,The Imitation Game,Nominee,No,No,No
 1165,2015,Actress In A Supporting Role,Emma Stone,Birdman,Nominee,No,No,No
 1166,2015,Actress In A Supporting Role,Meryl Streep,Into The Woods,Nominee,No,No,No
 1167,2015,Directing,Alejandro G. Iñárritu,Birdman,Winner,No,No,No
 1168,2015,Directing,Richard Linklater,Boyhood,Nominee,No,No,No
 1169,2015,Directing,Bennett Miller,Foxcatcher,Nominee,No,No,No
-1170,2015,Directing,Wes Anderson,"Grand Budapest Hotel, The",Nominee,No,No,No
+1170,2015,Directing,Wes Anderson,The Grand Budapest Hotel,Nominee,No,No,No
 1171,2015,Directing,Morten Tyldum,The Imitation Game,Nominee,No,No,No
 1172,2015,International Feature Film,Poland,Ida,Winner,No,No,No
 1173,2015,International Feature Film,Russia,Leviathan,Nominee,No,No,No
@@ -1179,7 +1179,7 @@
 1177,2015,Best Picture,"Clint Eastwood, Robert Lorenz, Andrew Lazar, Bradley Cooper and Peter Morgan, Producers",American Sniper,Nominee,No,No,No
 1178,2015,Best Picture,"Alejandro G. Iñárritu, John Lesher and James W. Skotchdopole, Producers",Birdman,Winner,No,No,No
 1179,2015,Best Picture,"Richard Linklater and Cathleen Sutherland, Producers",Boyhood,Nominee,No,No,No
-1180,2015,Best Picture,"Wes Anderson, Scott Rudin, Steven Rales and Jeremy Dawson, Producers","Grand Budapest Hotel, The",Nominee,No,No,No
+1180,2015,Best Picture,"Wes Anderson, Scott Rudin, Steven Rales and Jeremy Dawson, Producers",The Grand Budapest Hotel,Nominee,No,No,No
 1181,2015,Best Picture,"Nora Grossman, Ido Ostrowsky and Teddy Schwarzman, Producers",The Imitation Game,Nominee,No,No,No
 1182,2015,Best Picture,"Christian Colson, Oprah Winfrey, Dede Gardner and Jeremy Kleiner, Producers",Selma,Nominee,No,No,No
 1183,2015,Best Picture,"Tim Bevan, Eric Fellner, Lisa Bruce and Anthony McCarten, Producers",The Theory Of Everything,Nominee,No,No,No
@@ -1192,7 +1192,7 @@
 1190,2015,Writing (Original Screenplay),"Written by Alejandro G. Iñárritu, Nicolás Giacobone, Alexander Dinelaris, Jr. & Armando Bo",Birdman,Winner,No,No,No
 1191,2015,Writing (Original Screenplay),Written by Richard Linklater,Boyhood,Nominee,No,No,No
 1192,2015,Writing (Original Screenplay),Written by E. Max Frye and Dan Futterman,Foxcatcher,Nominee,No,No,No
-1193,2015,Writing (Original Screenplay),Screenplay by Wes Anderson; Story by Wes Anderson & Hugo Guinness,"Grand Budapest Hotel, The",Nominee,No,No,No
+1193,2015,Writing (Original Screenplay),Screenplay by Wes Anderson; Story by Wes Anderson & Hugo Guinness,The Grand Budapest Hotel,Nominee,No,No,No
 1194,2015,Writing (Original Screenplay),Written by Dan Gilroy,Nightcrawler,Nominee,No,No,No
 1195,2016,Actor In A Leading Role,Bryan Cranston,Trumbo,Nominee,No,No,No
 1196,2016,Actor In A Leading Role,Matt Damon,The Martian,Nominee,No,No,No
@@ -1521,7 +1521,7 @@
 1519,1991,Writing (Original Screenplay),Francis Ford Coppola,"Godfather Part Iii, The",No,Nominee,No,No
 1520,1991,Writing (Original Screenplay),Nicholas Pileggi,Goodfellas,No,Nominee,No,No
 1521,1991,Writing (Original Screenplay),Nicholas Kazan,Reversal Of Fortune,No,Nominee,No,No
-1522,1992,Actress In A Leading Role - Drama,Jodie Foster,"Silence Of The Lambs, The",No,Winner,No,No
+1522,1992,Actress In A Leading Role - Drama,Jodie Foster,The Silence Of The Lambs,No,Winner,No,No
 1523,1992,Actress In A Leading Role - Drama,Geena Davis,Thelma & Louise,No,Nominee,No,No
 1524,1992,Actress In A Leading Role - Drama,Laura Dern,Rambling Rose,No,Nominee,No,No
 1525,1992,Actress In A Leading Role - Drama,Susan Sarandon,Thelma & Louise,No,Nominee,No,No
@@ -1530,7 +1530,7 @@
 1528,1992,Actor In A Leading Role - Drama,Warren Beatty,Bugsy,No,Nominee,No,No
 1529,1992,Actor In A Leading Role - Drama,Kevin Costner,Jfk,No,Nominee,No,No
 1530,1992,Actor In A Leading Role - Drama,Robert De Niro,Cape Fear,No,Nominee,No,No
-1531,1992,Actor In A Leading Role - Drama,Anthony Hopkins,"Silence Of The Lambs, The",No,Nominee,No,No
+1531,1992,Actor In A Leading Role - Drama,Anthony Hopkins,The Silence Of The Lambs,No,Nominee,No,No
 1532,1992,Actress In A Leading Role - Musical Or Comedy,Bette Midler,For The Boys,No,Winner,No,No
 1533,1992,Actress In A Leading Role - Musical Or Comedy,Ellen Barkin,Switch,No,Nominee,No,No
 1534,1992,Actress In A Leading Role - Musical Or Comedy,Kathy Bates,Fried Green Tomatoes,No,Nominee,No,No
@@ -1552,14 +1552,14 @@
 1550,1992,Actor In A Supporting Role,Harvey Keitel,Bugsy,No,Nominee,No,No
 1551,1992,Actor In A Supporting Role,Ben Kingsley,Bugsy,No,Nominee,No,No
 1552,1992,Directing,Oliver Stone,Jfk,No,Winner,No,No
-1553,1992,Directing,Jonathan Demme,"Silence Of The Lambs, The",No,Nominee,No,No
+1553,1992,Directing,Jonathan Demme,The Silence Of The Lambs,No,Nominee,No,No
 1554,1992,Directing,Terry Gilliam,"Fisher King, The",No,Nominee,No,No
 1555,1992,Directing,Barry Levinson,Bugsy,No,Nominee,No,No
 1556,1992,Directing,Barbra Streisand,"Prince Of Tides, The",No,Nominee,No,No
 1557,1992,Writing (Original Screenplay),Callie Khouri,Thelma & Louise,No,Winner,No,No
 1558,1992,Writing (Original Screenplay),James Toback,Bugsy,No,Nominee,No,No
 1559,1992,Writing (Original Screenplay),Lawrence Kasdan,Grand Canyon,No,Nominee,No,No
-1560,1992,Writing (Original Screenplay),Ted Tally,"Silence Of The Lambs, The",No,Nominee,No,No
+1560,1992,Writing (Original Screenplay),Ted Tally,The Silence Of The Lambs,No,Nominee,No,No
 1561,1992,Writing (Original Screenplay),"Oliver Stone, Zachary Sklar",Jfk,No,Nominee,No,No
 1562,1993,Actress In A Leading Role - Drama,Emma Thompson,Howards End,No,Winner,No,No
 1563,1993,Actress In A Leading Role - Drama,Mary McDonnell,Passion Fish,No,Nominee,No,No
@@ -2014,7 +2014,7 @@
 2012,2004,Actress In A Leading Role - Drama,Charlize Theron,Monster,No,Winner,No,No
 2013,2004,Actress In A Leading Role - Drama,Scarlett Johansson,Girl With A Pearl Earring,No,Nominee,No,No
 2014,2004,Actress In A Leading Role - Drama,Nicole Kidman,Cold Mountain,No,Nominee,No,No
-2015,2004,Actress In A Leading Role - Drama,Uma Thurman,Kill Bill (Vol. 1),No,Nominee,No,No
+2015,2004,Actress In A Leading Role - Drama,Uma Thurman,Kill Bill: Volume 2,No,Nominee,No,No
 2016,2004,Actress In A Leading Role - Drama,Evan Rachel Wood,Thirteen,No,Nominee,No,No
 2017,2004,Actress In A Leading Role - Drama,Cate Blanchett,Veronica Guerin,No,Nominee,No,No
 2018,2004,Actor In A Leading Role - Drama,Sean Penn,Mystic River,No,Winner,No,No
@@ -2178,7 +2178,7 @@
 2176,2008,Actress In A Leading Role - Drama,Julie Christie,Away From Her,No,Winner,No,No
 2177,2008,Actress In A Leading Role - Drama,Cate Blanchett,Elizabeth:  The Golden Age,No,Nominee,No,No
 2178,2008,Actress In A Leading Role - Drama,Jodie Foster,"Brave One, The",No,Nominee,No,No
-2179,2008,Actress In A Leading Role - Drama,Angelina Jolie,A Mighty Heart,No,Nominee,No,No
+2179,2008,Actress In A Leading Role - Drama,Angelina Jolie,"Mighty Heart, A",No,Nominee,No,No
 2180,2008,Actress In A Leading Role - Drama,Keira Knightley,Atonement,No,Nominee,No,No
 2181,2008,Actor In A Leading Role - Drama,Daniel Day-Lewis,There Will Be Blood,No,Winner,No,No
 2182,2008,Actor In A Leading Role - Drama,Denzel Washington,American Gangster,No,Nominee,No,No
@@ -2302,7 +2302,7 @@
 2300,2011,Actress In A Leading Role - Drama,Michelle Williams,Blue Valentine,No,Nominee,No,No
 2301,2011,Actor In A Leading Role - Drama,Colin Firth,The King'S Speech,No,Winner,No,No
 2302,2011,Actor In A Leading Role - Drama,Ryan Gosling,Blue Valentine,No,Nominee,No,No
-2303,2011,Actor In A Leading Role - Drama,Mark Wahlberg,"Fighter, The",No,Nominee,No,No
+2303,2011,Actor In A Leading Role - Drama,Mark Wahlberg,The Fighter,No,Nominee,No,No
 2304,2011,Actor In A Leading Role - Drama,Jesse Eisenberg,The Social Network,No,Nominee,No,No
 2305,2011,Actor In A Leading Role - Drama,James Franco,127 Hours,No,Nominee,No,No
 2306,2011,Actress In A Leading Role - Musical Or Comedy,Annette Bening,"Kids Are All Right, The",No,Winner,No,No
@@ -2315,12 +2315,12 @@
 2313,2011,Actor In A Leading Role - Musical Or Comedy,Johnny Depp,"Tourist, The",No,Nominee,No,No
 2314,2011,Actor In A Leading Role - Musical Or Comedy,Jake Gyllenhaal,Love & Other Drugs,No,Nominee,No,No
 2315,2011,Actor In A Leading Role - Musical Or Comedy,Kevin Spacey,Casino Jack,No,Nominee,No,No
-2316,2011,Actress In A Supporting Role,Melissa Leo,"Fighter, The",No,Winner,No,No
+2316,2011,Actress In A Supporting Role,Melissa Leo,The Fighter,No,Winner,No,No
 2317,2011,Actress In A Supporting Role,Helena Bonham Carter,The King'S Speech,No,Nominee,No,No
 2318,2011,Actress In A Supporting Role,Mila Kunis,Black Swan,No,Nominee,No,No
 2319,2011,Actress In A Supporting Role,Jacki Weaver,Animal Kingdom,No,Nominee,No,No
-2320,2011,Actress In A Supporting Role,Amy Adams,"Fighter, The",No,Nominee,No,No
-2321,2011,Actor In A Supporting Role,Christian Bale,"Fighter, The",No,Winner,No,No
+2320,2011,Actress In A Supporting Role,Amy Adams,The Fighter,No,Nominee,No,No
+2321,2011,Actor In A Supporting Role,Christian Bale,The Fighter,No,Winner,No,No
 2322,2011,Actor In A Supporting Role,Michael Douglas,Wall Street: Money Never Sleeps,No,Nominee,No,No
 2323,2011,Actor In A Supporting Role,Andrew Garfield,The Social Network,No,Nominee,No,No
 2324,2011,Actor In A Supporting Role,Jeremy Renner,"Town, The",No,Nominee,No,No
@@ -2329,7 +2329,7 @@
 2327,2011,Directing,Darren Aronofsky,Black Swan,No,Nominee,No,No
 2328,2011,Directing,Tom Hooper,The King'S Speech,No,Nominee,No,No
 2329,2011,Directing,Christopher Nolan,Inception,No,Nominee,No,No
-2330,2011,Directing,David O. Russell,"Fighter, The",No,Nominee,No,No
+2330,2011,Directing,David O. Russell,The Fighter,No,Nominee,No,No
 2331,2011,Writing (Original Screenplay),Aaron Sorkin,The Social Network,No,Winner,No,No
 2332,2011,Writing (Original Screenplay),"Danny Boyle, Simon Beaufoy",127 Hours,No,Nominee,No,No
 2333,2011,Writing (Original Screenplay),"Lisa Cholodenko, Stuart Blumberg","Kids Are All Right, The",No,Nominee,No,No
@@ -2459,7 +2459,7 @@
 2457,2015,Actress In A Leading Role - Drama,Jennifer Aniston,Cake,No,Nominee,No,No
 2458,2015,Actress In A Leading Role - Drama,Felicity Jones,The Theory Of Everything,No,Nominee,No,No
 2459,2015,Actress In A Leading Role - Drama,Rosamund Pike,Gone Girl,No,Nominee,No,No
-2460,2015,Actress In A Leading Role - Drama,Reese Witherspoon,Wild,No,Nominee,No,No
+2460,2015,Actress In A Leading Role - Drama,Reese Witherspoon,Wild Tales,No,Nominee,No,No
 2461,2015,Actor In A Leading Role - Drama,Eddie Redmayne,The Theory Of Everything,No,Winner,No,No
 2462,2015,Actor In A Leading Role - Drama,Steve Carell,Foxcatcher,No,Nominee,No,No
 2463,2015,Actor In A Leading Role - Drama,Jake Gyllenhaal,Nightcrawler,No,Nominee,No,No
@@ -2798,7 +2798,7 @@
 2796,2015,Actress In A Leading Role,Rosamund Pike,Gone Girl,No,No,Nominee,No
 2797,2015,Actress In A Leading Role,Julianne Moore,Still Alice,No,No,Winner,No
 2798,2015,Actress In A Leading Role,Felicity Jones,The Theory Of Everything,No,No,Nominee,No
-2799,2015,Actress In A Leading Role,Reese Witherspoon,Wild,No,No,Nominee,No
+2799,2015,Actress In A Leading Role,Reese Witherspoon,Wild Tales,No,No,Nominee,No
 2800,2015,Actress In A Supporting Role,Emma Stone,Birdman,No,No,Nominee,No
 2801,2015,Actress In A Supporting Role,Patricia Arquette,Boyhood,No,No,Nominee,No
 2802,2015,Actress In A Supporting Role,Meryl Streep,Into The Woods,No,No,Nominee,No
@@ -2880,8 +2880,8 @@
 2878,2011,Actress In A Leading Role,Annette Bening,"Kids Are All Right, The",No,No,Nominee,No
 2879,2011,Actress In A Leading Role,Jennifer Lawrence,Winter'S Bone,No,No,Nominee,No
 2880,2011,Actress In A Supporting Role,Mila Kunis,Black Swan,No,No,Nominee,No
-2881,2011,Actress In A Supporting Role,Amy Adams,"Fighter, The",No,No,Nominee,No
-2882,2011,Actress In A Supporting Role,Melissa Leo,"Fighter, The",No,No,Winner,No
+2881,2011,Actress In A Supporting Role,Amy Adams,The Fighter,No,No,Nominee,No
+2882,2011,Actress In A Supporting Role,Melissa Leo,The Fighter,No,No,Winner,No
 2883,2011,Actress In A Supporting Role,Helena Bonham Carter,The King'S Speech,No,No,Nominee,No
 2884,2011,Actress In A Supporting Role,Hailee Steinfeld,True Grit,No,No,Nominee,No
 2885,2011,Actor In A Leading Role,James Franco,127 Hours,No,No,Nominee,No
@@ -2889,7 +2889,7 @@
 2887,2011,Actor In A Leading Role,Colin Firth,The King'S Speech,No,No,Winner,No
 2888,2011,Actor In A Leading Role,Jesse Eisenberg,The Social Network,No,No,Nominee,No
 2889,2011,Actor In A Leading Role,Jeff Bridges,True Grit,No,No,Nominee,No
-2890,2011,Actor In A Supporting Role,Christian Bale,"Fighter, The",No,No,Winner,No
+2890,2011,Actor In A Supporting Role,Christian Bale,The Fighter,No,No,Winner,No
 2891,2011,Actor In A Supporting Role,Mark Ruffalo,"Kids Are All Right, The",No,No,Nominee,No
 2892,2011,Actor In A Supporting Role,Geoffrey Rush,The King'S Speech,No,No,Nominee,No
 2893,2011,Actor In A Supporting Role,Jeremy Renner,"Town, The",No,No,Nominee,No
@@ -3361,7 +3361,7 @@
 3359,2010,Best Picture,David Fincher,The Social Network,No,No,No,Winner
 3360,2010,Best Picture,Danny Boyle,127 Hours,No,No,No,Nominee
 3361,2010,Best Picture,Darren Aronofsky,Black Swan,No,No,No,Nominee
-3362,2010,Best Picture,David O. Russell,"Fighter, The",No,No,No,Nominee
+3362,2010,Best Picture,David O. Russell,The Fighter,No,No,No,Nominee
 3363,2010,Best Picture,Christopher Nolan,Inception,No,No,No,Nominee
 3364,2010,Best Picture,Tom Hooper,The King'S Speech,No,No,No,Nominee
 3365,2010,Best Picture,Ben Affleck,"Town, The",No,No,No,Nominee
@@ -3401,7 +3401,7 @@
 3399,2014,Best Picture,Richard Linklater,Boyhood,No,No,No,Winner
 3400,2014,Best Picture,Alejandro G. Iñárritu,Birdman,No,No,No,Nominee
 3401,2014,Best Picture,David Fincher,Gone Girl,No,No,No,Nominee
-3402,2014,Best Picture,Wes Anderson,"Grand Budapest Hotel, The",No,No,No,Nominee
+3402,2014,Best Picture,Wes Anderson,The Grand Budapest Hotel,No,No,No,Nominee
 3403,2014,Best Picture,Morten Tyldum,The Imitation Game,No,No,No,Nominee
 3404,2014,Best Picture,Dan Gilroy,Nightcrawler,No,No,No,Nominee
 3405,2014,Best Picture,Ava DuVernay,Selma,No,No,No,Nominee
@@ -3569,7 +3569,7 @@
 3567,2013,Actor In A Leading Role,Robert Redford,All Is Lost,No,No,No,Nominee
 3568,2014,Actor In A Leading Role,Michael Keaton,Birdman,No,No,No,Winner
 3569,2014,Actor In A Leading Role,Benedict Cumberbatch,The Imitation Game,No,No,No,Nominee
-3570,2014,Actor In A Leading Role,Ralph Fiennes,"Grand Budapest Hotel, The",No,No,No,Nominee
+3570,2014,Actor In A Leading Role,Ralph Fiennes,The Grand Budapest Hotel,No,No,No,Nominee
 3571,2014,Actor In A Leading Role,Jake Gyllenhaal,Nightcrawler,No,No,No,Nominee
 3572,2014,Actor In A Leading Role,David Oyelowo,Selma,No,No,No,Nominee
 3573,2014,Actor In A Leading Role,Eddie Redmayne,The Theory Of Everything,No,No,No,Nominee
@@ -3709,7 +3709,7 @@
 3707,2014,Actress In A Leading Role,Marion Cotillard,"Two Days, One Night",No,No,No,Nominee
 3708,2014,Actress In A Leading Role,Felicity Jones,The Theory Of Everything,No,No,No,Nominee
 3709,2014,Actress In A Leading Role,Rosamund Pike,Gone Girl,No,No,No,Nominee
-3710,2014,Actress In A Leading Role,Reese Witherspoon,Wild,No,No,No,Nominee
+3710,2014,Actress In A Leading Role,Reese Witherspoon,Wild Tales,No,No,No,Nominee
 3711,2015,Actress In A Leading Role,Brie Larson,Room,No,No,No,Winner
 3712,2015,Actress In A Leading Role,Cate Blanchett,Carol,No,No,No,Nominee
 3713,2015,Actress In A Leading Role,Jennifer Lawrence,Joy,No,No,No,Nominee
@@ -3814,7 +3814,7 @@
 3812,2009,Actor In A Supporting Role,Christian McKay,Me And Orson Welles,No,No,No,Nominee
 3813,2009,Actor In A Supporting Role,Alfred Molina,"Education, An",No,No,No,Nominee
 3814,2009,Actor In A Supporting Role,Stanley Tucci,"Lovely Bones, The",No,No,No,Nominee
-3815,2010,Actor In A Supporting Role,Christian Bale,"Fighter, The",No,No,No,Winner
+3815,2010,Actor In A Supporting Role,Christian Bale,The Fighter,No,No,No,Winner
 3816,2010,Actor In A Supporting Role,Andrew Garfield,The Social Network,No,No,No,Nominee
 3817,2010,Actor In A Supporting Role,Jeremy Renner,"Town, The",No,No,No,Nominee
 3818,2010,Actor In A Supporting Role,Sam Rockwell,Conviction,No,No,No,Nominee
@@ -3945,10 +3945,10 @@
 3943,2009,Actor In A Supporting Role,Anna Kendrick,Up In The Air,No,No,No,Nominee
 3944,2009,Actor In A Supporting Role,Julianne Moore,A Single Man,No,No,No,Nominee
 3945,2009,Actor In A Supporting Role,Samantha Morton,"Messenger, The",No,No,No,Nominee
-3946,2010,Actor In A Supporting Role,Melissa Leo,"Fighter, The",No,No,No,Winner
+3946,2010,Actor In A Supporting Role,Melissa Leo,The Fighter,No,No,No,Winner
 3947,2010,Actor In A Supporting Role,Helena Bonham Carter,The King'S Speech,No,No,No,Nominee
 3948,2010,Actor In A Supporting Role,Mila Kunis,Black Swan,No,No,No,Nominee
-3949,2010,Actor In A Supporting Role,Amy Adams,"Fighter, The",No,No,No,Winner
+3949,2010,Actor In A Supporting Role,Amy Adams,The Fighter,No,No,No,Winner
 3950,2010,Actor In A Supporting Role,Hailee Steinfeld,True Grit,No,No,No,Nominee
 3951,2010,Actor In A Supporting Role,Jacki Weaver,Animal Kingdom,No,No,No,Nominee
 3952,2011,Actor In A Supporting Role,Octavia Spencer,The Help,No,No,No,Winner

@@ -1,4 +1,4 @@
-# <center> Want to see the Oscar race? Check out this project
+# <center> Want to see the Oscar race? Check out this project </center>
 
 ![Oscar](https://www.towncenterzumpango.com.mx/wp-content/uploads/2020/01/premios-oscar-2020.jpg)
 
@@ -65,9 +65,9 @@ And also the ones I´ve created from [wikipedia's](https://en.wikipedia.org/wiki
 And finally all awards gathered in a single csv:
 - [Cinema_Awards](data/Cinema_Awards.csv)
 
-In the notebooks folder I have all the code I have used for each of the cleaning, web scraping, storage and visualization tasks.
+In the notebooks folder you can find the code I've used for each of the cleaning, web scraping, storage and visualization tasks.
 
-In the src folder I have a .py document called [support](src/support.py) where I collect all the functions that I've used in my project.
+In the src folder there is a .py document called [support](src/support.py) where all the functions that I have created for this project are collected.
 
 
 ## Examples
@@ -90,5 +90,5 @@ In this project I have used the following Python libraries:
 
 If you have any questions or run into any issues, please contact me at [juanoncorrea@gmail.com](mailto:juanoncorrea@gmail.com)
 
-## <center>Enjoy! 🙌
-<img src="https://media2.giphy.com/media/AbDCwAI2xTwTm/giphy.gif?cid=790b761162ebc2b65306a1767bceffddf4021c5583ae566e&rid=giphy.gif&ct=g" width="400" height="400" style="display: block; margin: 0 auto;">
+## <center>Enjoy! 🙌</center>
+<center><img src="https://media2.giphy.com/media/AbDCwAI2xTwTm/giphy.gif?cid=790b761162ebc2b65306a1767bceffddf4021c5583ae566e&rid=giphy.gif&ct=g" width="400" height="400" style="display: block; margin: 0 auto;"></center>
