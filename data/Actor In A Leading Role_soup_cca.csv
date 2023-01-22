@@ -1,0 +1,137 @@
+,year_ceremony,category,film,name,cca
+1,1995,Actor In A Leading Role,Murder in the First,Kevin Bacon,Winner
+2,1996,Actor In A Leading Role,Shine,Geoffrey Rush,Winner
+3,1997,Actor In A Leading Role,As Good as It Gets,Jack Nicholson,Winner
+4,1998,Actor In A Leading Role,Gods and Monsters,Ian McKellen,Winner
+5,1999,Actor In A Leading Role,The Insider,Russell Crowe,Winner
+6,2000,Actor In A Leading Role,Gladiator,Russell Crowe,Winner
+7,2001,Actor In A Leading Role,A Beautiful Mind,Russell Crowe,Winner
+8,2001,Actor In A Leading Role,I Am Sam,Sean Penn,Nominee
+9,2001,Actor In A Leading Role,Ali,Will Smith,Nominee
+10,2002,Actor In A Leading Role,Gangs of New York,Daniel Day-Lewis ,Winner
+11,2002,Actor In A Leading Role,About Schmidt,Jack Nicholson ,Winner
+12,2002,Actor In A Leading Role,One Hour Photo,Robin Williams,Nominee
+13,2003,Actor In A Leading Role,Mystic River,Sean Penn,Winner
+14,2003,Actor In A Leading Role,Master and Commander: The Far Side of the World,Russell Crowe,Nominee
+15,2003,Actor In A Leading Role,Pirates of the Caribbean: The Curse of the Black Pearl,Johnny Depp,Nominee
+16,2003,Actor In A Leading Role,House of Sand and Fog,Ben Kingsley,Nominee
+17,2003,Actor In A Leading Role,Lost in Translation,Bill Murray,Nominee
+18,2004,Actor In A Leading Role,Ray,Jamie Foxx,Winner
+19,2004,Actor In A Leading Role,The Sea Inside,Javier Bardem,Nominee
+20,2004,Actor In A Leading Role,Hotel Rwanda,Don Cheadle,Nominee
+21,2004,Actor In A Leading Role,Finding Neverland,Johnny Depp,Nominee
+22,2004,Actor In A Leading Role,The Aviator,Leonardo DiCaprio,Nominee
+23,2004,Actor In A Leading Role,Sideways,Paul Giamatti,Nominee
+24,2005,Actor In A Leading Role,Capote,Philip Seymour Hoffman,Winner
+25,2005,Actor In A Leading Role,Cinderella Man,Russell Crowe,Nominee
+26,2005,Actor In A Leading Role,Hustle & Flow,Terrence Howard,Nominee
+27,2005,Actor In A Leading Role,Brokeback Mountain,Heath Ledger,Nominee
+28,2005,Actor In A Leading Role,Walk the Line,Joaquin Phoenix,Nominee
+29,2005,Actor In A Leading Role,"Good Night, and Good Luck",David Strathairn,Nominee
+30,2006,Actor In A Leading Role,The Last King of Scotland,Forest Whitaker,Winner
+31,2006,Actor In A Leading Role,Blood Diamond,Leonardo DiCaprio,Nominee
+32,2006,Actor In A Leading Role,The Departed,Leonardo DiCaprio,Nominee
+33,2006,Actor In A Leading Role,Half Nelson,Ryan Gosling,Nominee
+34,2006,Actor In A Leading Role,Venus,Peter O'Toole,Nominee
+35,2006,Actor In A Leading Role,The Pursuit of Happyness,Will Smith,Nominee
+36,2007,Actor In A Leading Role,There Will Be Blood,Daniel Day-Lewis,Winner
+37,2007,Actor In A Leading Role,Michael Clayton,George Clooney,Nominee
+38,2007,Actor In A Leading Role,Sweeney Todd: The Demon Barber of Fleet Street,Johnny Depp,Nominee
+39,2007,Actor In A Leading Role,Lars and the Real Girl,Ryan Gosling,Nominee
+40,2007,Actor In A Leading Role,Into the Wild,Emile Hirsch,Nominee
+41,2007,Actor In A Leading Role,Eastern Promises,Viggo Mortensen,Nominee
+42,2008,Actor In A Leading Role,Milk,Sean Penn,Winner
+43,2008,Actor In A Leading Role,Gran Torino,Clint Eastwood,Nominee
+44,2008,Actor In A Leading Role,The Visitor,Richard Jenkins,Nominee
+45,2008,Actor In A Leading Role,Frost/Nixon,Frank Langella,Nominee
+46,2008,Actor In A Leading Role,The Curious Case of Benjamin Button,Brad Pitt,Nominee
+47,2008,Actor In A Leading Role,The Wrestler,Mickey Rourke,Nominee
+48,2009,Actor In A Leading Role,Crazy Heart,Jeff Bridges,Winner
+49,2009,Actor In A Leading Role,Up in the Air,George Clooney,Nominee
+50,2009,Actor In A Leading Role,A Single Man,Colin Firth,Nominee
+51,2009,Actor In A Leading Role,Invictus,Morgan Freeman,Nominee
+52,2009,Actor In A Leading Role,The Road,Viggo Mortensen,Nominee
+53,2009,Actor In A Leading Role,The Hurt Locker,Jeremy Renner,Nominee
+54,2010,Actor In A Leading Role,The King's Speech,Colin Firth,Winner
+55,2010,Actor In A Leading Role,True Grit,Jeff Bridges,Nominee
+56,2010,Actor In A Leading Role,Get Low,Robert Duvall,Nominee
+57,2010,Actor In A Leading Role,The Social Network,Jesse Eisenberg,Nominee
+58,2010,Actor In A Leading Role,127 Hours,James Franco,Nominee
+59,2010,Actor In A Leading Role,Blue Valentine,Ryan Gosling,Nominee
+60,2011,Actor In A Leading Role,The Descendants,George Clooney,Winner
+61,2011,Actor In A Leading Role,J. Edgar,Leonardo DiCaprio,Nominee
+62,2011,Actor In A Leading Role,The Artist,Jean Dujardin,Nominee
+63,2011,Actor In A Leading Role,Shame,Michael Fassbender,Nominee
+64,2011,Actor In A Leading Role,Drive,Ryan Gosling,Nominee
+65,2011,Actor In A Leading Role,Moneyball,Brad Pitt,Nominee
+66,2012,Actor In A Leading Role,Lincoln,Daniel Day-Lewis,Winner
+67,2012,Actor In A Leading Role,Silver Linings Playbook,Bradley Cooper,Nominee
+68,2012,Actor In A Leading Role,The Sessions,John Hawkes,Nominee
+69,2012,Actor In A Leading Role,Les Misérables,Hugh Jackman,Nominee
+70,2012,Actor In A Leading Role,The Master,Joaquin Phoenix,Nominee
+71,2012,Actor In A Leading Role,Flight,Denzel Washington,Nominee
+72,2013,Actor In A Leading Role,Dallas Buyers Club,Matthew McConaughey,Winner
+73,2013,Actor In A Leading Role,American Hustle,Christian Bale,Nominee
+74,2013,Actor In A Leading Role,Nebraska,Bruce Dern,Nominee
+75,2013,Actor In A Leading Role,12 Years a Slave,Chiwetel Ejiofor,Nominee
+76,2013,Actor In A Leading Role,Captain Phillips,Tom Hanks,Nominee
+77,2013,Actor In A Leading Role,All Is Lost,Robert Redford,Nominee
+78,2014,Actor In A Leading Role,Birdman,Michael Keaton,Winner
+79,2014,Actor In A Leading Role,The Imitation Game,Benedict Cumberbatch,Nominee
+80,2014,Actor In A Leading Role,The Grand Budapest Hotel,Ralph Fiennes,Nominee
+81,2014,Actor In A Leading Role,Nightcrawler,Jake Gyllenhaal,Nominee
+82,2014,Actor In A Leading Role,Selma,David Oyelowo,Nominee
+83,2014,Actor In A Leading Role,The Theory of Everything,Eddie Redmayne,Nominee
+84,2015,Actor In A Leading Role,The Revenant,Leonardo DiCaprio,Winner
+85,2015,Actor In A Leading Role,Trumbo,Bryan Cranston,Nominee
+86,2015,Actor In A Leading Role,The Martian,Matt Damon,Nominee
+87,2015,Actor In A Leading Role,Black Mass,Johnny Depp,Nominee
+88,2015,Actor In A Leading Role,Steve Jobs,Michael Fassbender,Nominee
+89,2015,Actor In A Leading Role,The Danish Girl,Eddie Redmayne,Nominee
+90,2016,Actor In A Leading Role,Manchester by the Sea,Casey Affleck,Winner
+91,2016,Actor In A Leading Role,Loving,Joel Edgerton,Nominee
+92,2016,Actor In A Leading Role,Hacksaw Ridge,Andrew Garfield,Nominee
+93,2016,Actor In A Leading Role,La La Land,Ryan Gosling,Nominee
+94,2016,Actor In A Leading Role,Sully,Tom Hanks,Nominee
+95,2016,Actor In A Leading Role,Fences,Denzel Washington,Nominee
+96,2017,Actor In A Leading Role,Darkest Hour,Gary Oldman,Winner
+97,2017,Actor In A Leading Role,Call Me by Your Name,Timothée Chalamet,Nominee
+98,2017,Actor In A Leading Role,Phantom Thread,Daniel Day-Lewis,Nominee
+99,2017,Actor In A Leading Role,The Disaster Artist,James Franco,Nominee
+100,2017,Actor In A Leading Role,Stronger,Jake Gyllenhaal,Nominee
+101,2017,Actor In A Leading Role,The Post,Tom Hanks,Nominee
+102,2017,Actor In A Leading Role,Get Out,Daniel Kaluuya,Nominee
+103,2018,Actor In A Leading Role,Vice,Christian Bale,Winner
+104,2018,Actor In A Leading Role,A Star Is Born,Bradley Cooper,Nominee
+105,2018,Actor In A Leading Role,At Eternity's Gate,Willem Dafoe,Nominee
+106,2018,Actor In A Leading Role,First Man,Ryan Gosling,Nominee
+107,2018,Actor In A Leading Role,First Reformed,Ethan Hawke,Nominee
+108,2018,Actor In A Leading Role,Bohemian Rhapsody,Rami Malek,Nominee
+109,2018,Actor In A Leading Role,Green Book,Viggo Mortensen,Nominee
+110,2019,Actor In A Leading Role,Joker,Joaquin Phoenix,Winner
+111,2019,Actor In A Leading Role,Pain and Glory,Antonio Banderas,Nominee
+112,2019,Actor In A Leading Role,The Irishman,Robert De Niro,Nominee
+113,2019,Actor In A Leading Role,Once Upon a Time in Hollywood,Leonardo DiCaprio,Nominee
+114,2019,Actor In A Leading Role,Marriage Story,Adam Driver,Nominee
+115,2019,Actor In A Leading Role,Dolemite Is My Name,Eddie Murphy,Nominee
+116,2019,Actor In A Leading Role,Uncut Gems,Adam Sandler,Nominee
+117,2020,Actor In A Leading Role,Ma Rainey's Black Bottom,Chadwick Boseman,Winner
+118,2020,Actor In A Leading Role,The Way Back,Ben Affleck,Nominee
+119,2020,Actor In A Leading Role,Sound of Metal,Riz Ahmed,Nominee
+120,2020,Actor In A Leading Role,News of the World,Tom Hanks,Nominee
+121,2020,Actor In A Leading Role,The Father,Anthony Hopkins,Nominee
+122,2020,Actor In A Leading Role,Da 5 Bloods,Delroy Lindo,Nominee
+123,2020,Actor In A Leading Role,Mank,Gary Oldman,Nominee
+124,2020,Actor In A Leading Role,Minari,Steven Yeun,Nominee
+125,2021,Actor In A Leading Role,King Richard,Will Smith,Winner
+126,2021,Actor In A Leading Role,Pig,Nicolas Cage,Nominee
+127,2021,Actor In A Leading Role,The Power of the Dog,Benedict Cumberbatch,Nominee
+128,2021,Actor In A Leading Role,Cyrano,Peter Dinklage,Nominee
+129,2021,Actor In A Leading Role,"tick, tick... BOOM!",Andrew Garfield,Nominee
+130,2021,Actor In A Leading Role,The Tragedy of Macbeth,Denzel Washington,Nominee
+131,2022,Actor In A Leading Role,The Whale,Brendan Fraser,Winner
+132,2022,Actor In A Leading Role,Elvis,Austin Butler,Nominee
+133,2022,Actor In A Leading Role,Top Gun: Maverick,Tom Cruise,Nominee
+134,2022,Actor In A Leading Role,The Banshees of Inisherin,Colin Farrell,Nominee
+135,2022,Actor In A Leading Role,Aftersun,Paul Mescal,Nominee
+136,2022,Actor In A Leading Role,Living,Bill Nighy,Nominee

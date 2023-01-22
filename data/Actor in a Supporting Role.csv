@@ -1,0 +1,132 @@
+,year_ceremony,category,film,name,cca
+1,1995,Actor in a Supporting Role,Apollo 13,Ed Harris ,Winner
+2,1995,Actor in a Supporting Role,The Usual Suspects,Kevin Spacey ,Winner
+3,1996,Actor in a Supporting Role,Jerry Maguire,Cuba Gooding Jr.,Winner
+4,1997,Actor in a Supporting Role,Amistad,Anthony Hopkins,Winner
+5,1998,Actor in a Supporting Role,A Simple Plan,Billy Bob Thornton,Winner
+6,1999,Actor in a Supporting Role,The Green Mile,Michael Clarke Duncan,Winner
+7,2000,Actor in a Supporting Role,Gladiator,Joaquin Phoenix,Winner
+8,2000,Actor in a Supporting Role,Quills,Joaquin Phoenix,Winner
+9,2000,Actor in a Supporting Role,The Yards,Joaquin Phoenix,Winner
+10,2001,Actor in a Supporting Role,Sexy Beast,Ben Kingsley,Winner
+11,2001,Actor in a Supporting Role,Iris,Jim Broadbent,Nominee
+12,2001,Actor in a Supporting Role,Ali,Jon Voight,Nominee
+13,2002,Actor in a Supporting Role,Adaptation.,Chris Cooper,Winner
+14,2002,Actor in a Supporting Role,Frida,Alfred Molina,Nominee
+15,2002,Actor in a Supporting Role,Road to Perdition,Paul Newman,Nominee
+16,2003,Actor in a Supporting Role,Mystic River,Tim Robbins,Winner
+17,2003,Actor in a Supporting Role,The Cooler,Alec Baldwin,Nominee
+18,2003,Actor in a Supporting Role,Master and Commander: The Far Side of the World,Paul Bettany,Nominee
+19,2003,Actor in a Supporting Role,21 Grams,Benicio del Toro,Nominee
+20,2003,Actor in a Supporting Role,The Last Samurai,Ken Watanabe,Nominee
+21,2004,Actor in a Supporting Role,Sideways,Thomas Haden Church,Winner
+22,2004,Actor in a Supporting Role,Collateral,Jamie Foxx,Nominee
+23,2004,Actor in a Supporting Role,Million Dollar Baby,Morgan Freeman,Nominee
+24,2004,Actor in a Supporting Role,Closer,Clive Owen,Nominee
+25,2004,Actor in a Supporting Role,Kinsey,Peter Sarsgaard,Nominee
+26,2005,Actor in a Supporting Role,Cinderella Man,Paul Giamatti,Winner
+27,2005,Actor in a Supporting Role,Syriana,George Clooney,Nominee
+28,2005,Actor in a Supporting Role,The Upside of Anger,Kevin Costner,Nominee
+29,2005,Actor in a Supporting Role,Crash,Matt Dillon,Nominee
+30,2005,Actor in a Supporting Role,Crash,Terrence Howard,Nominee
+31,2005,Actor in a Supporting Role,Brokeback Mountain,Jake Gyllenhaal,Nominee
+32,2006,Actor in a Supporting Role,Dreamgirls,Eddie Murphy,Winner
+33,2006,Actor in a Supporting Role,Hollywoodland,Ben Affleck,Nominee
+34,2006,Actor in a Supporting Role,Little Miss Sunshine,Alan Arkin,Nominee
+35,2006,Actor in a Supporting Role,Flags of Our Fathers,Adam Beach,Nominee
+36,2006,Actor in a Supporting Role,Blood Diamond,Djimon Hounsou,Nominee
+37,2006,Actor in a Supporting Role,The Departed,Jack Nicholson,Nominee
+38,2007,Actor in a Supporting Role,No Country for Old Men,Javier Bardem,Winner
+39,2007,Actor in a Supporting Role,The Assassination of Jesse James by the Coward Robert Ford,Casey Affleck,Nominee
+40,2007,Actor in a Supporting Role,Charlie Wilson's War,Philip Seymour Hoffman,Nominee
+41,2007,Actor in a Supporting Role,Into the Wild,Hal Holbrook,Nominee
+42,2007,Actor in a Supporting Role,Michael Clayton,Tom Wilkinson,Nominee
+43,2008,Actor in a Supporting Role,The Dark Knight,Heath Ledger ,Winner
+44,2008,Actor in a Supporting Role,Milk,Josh Brolin,Nominee
+45,2008,Actor in a Supporting Role,Milk,James Franco,Nominee
+46,2008,Actor in a Supporting Role,Tropic Thunder,Robert Downey Jr.,Nominee
+47,2008,Actor in a Supporting Role,Doubt,Philip Seymour Hoffman,Nominee
+48,2009,Actor in a Supporting Role,Inglourious Basterds,Christoph Waltz,Winner
+49,2009,Actor in a Supporting Role,Invictus,Matt Damon,Nominee
+50,2009,Actor in a Supporting Role,The Messenger,Woody Harrelson,Nominee
+51,2009,Actor in a Supporting Role,Me and Orson Welles,Christian McKay,Nominee
+52,2009,Actor in a Supporting Role,An Education,Alfred Molina,Nominee
+53,2009,Actor in a Supporting Role,The Lovely Bones,Stanley Tucci,Nominee
+54,2010,Actor in a Supporting Role,The Fighter,Christian Bale,Winner
+55,2010,Actor in a Supporting Role,The Social Network,Andrew Garfield,Nominee
+56,2010,Actor in a Supporting Role,The Town,Jeremy Renner,Nominee
+57,2010,Actor in a Supporting Role,Conviction,Sam Rockwell,Nominee
+58,2010,Actor in a Supporting Role,The Kids Are All Right,Mark Ruffalo,Nominee
+59,2010,Actor in a Supporting Role,The King's Speech,Geoffrey Rush,Nominee
+60,2011,Actor in a Supporting Role,Beginners,Christopher Plummer,Winner
+61,2011,Actor in a Supporting Role,My Week with Marilyn,Kenneth Branagh,Nominee
+62,2011,Actor in a Supporting Role,Drive,Albert Brooks,Nominee
+63,2011,Actor in a Supporting Role,Warrior,Nick Nolte,Nominee
+64,2011,Actor in a Supporting Role,Young Adult,Patton Oswalt,Nominee
+65,2011,Actor in a Supporting Role,Rise of the Planet of the Apes,Andy Serkis,Nominee
+66,2012,Actor in a Supporting Role,The Master,Philip Seymour Hoffman,Winner
+67,2012,Actor in a Supporting Role,Argo,Alan Arkin,Nominee
+68,2012,Actor in a Supporting Role,Skyfall,Javier Bardem,Nominee
+69,2012,Actor in a Supporting Role,Silver Linings Playbook,Robert De Niro,Nominee
+70,2012,Actor in a Supporting Role,Lincoln,Tommy Lee Jones,Nominee
+71,2012,Actor in a Supporting Role,Magic Mike,Matthew McConaughey,Nominee
+72,2013,Actor in a Supporting Role,Dallas Buyers Club,Jared Leto,Winner
+73,2013,Actor in a Supporting Role,Captain Phillips,Barkhad Abdi,Nominee
+74,2013,Actor in a Supporting Role,Rush,Daniel Brühl,Nominee
+75,2013,Actor in a Supporting Role,American Hustle,Bradley Cooper,Nominee
+76,2013,Actor in a Supporting Role,12 Years a Slave,Michael Fassbender,Nominee
+77,2013,Actor in a Supporting Role,Enough Said,James Gandolfini,Nominee
+78,2014,Actor in a Supporting Role,Whiplash,J. K. Simmons,Winner
+79,2014,Actor in a Supporting Role,Inherent Vice,Josh Brolin,Nominee
+80,2014,Actor in a Supporting Role,The Judge,Robert Duvall,Nominee
+81,2014,Actor in a Supporting Role,Boyhood,Ethan Hawke,Nominee
+82,2014,Actor in a Supporting Role,Birdman,Edward Norton,Nominee
+83,2014,Actor in a Supporting Role,Foxcatcher,Mark Ruffalo,Nominee
+84,2015,Actor in a Supporting Role,Creed,Sylvester Stallone,Winner
+85,2015,Actor in a Supporting Role,Love & Mercy,Paul Dano,Nominee
+86,2015,Actor in a Supporting Role,The Revenant,Tom Hardy,Nominee
+87,2015,Actor in a Supporting Role,Spotlight,Mark Ruffalo,Nominee
+88,2015,Actor in a Supporting Role,Bridge of Spies,Mark Rylance,Nominee
+89,2015,Actor in a Supporting Role,99 Homes,Michael Shannon,Nominee
+90,2016,Actor in a Supporting Role,Moonlight,Mahershala Ali,Winner
+91,2016,Actor in a Supporting Role,Hell or High Water,Jeff Bridges,Nominee
+92,2016,Actor in a Supporting Role,Hell or High Water,Ben Foster,Nominee
+93,2016,Actor in a Supporting Role,Manchester by the Sea,Lucas Hedges,Nominee
+94,2016,Actor in a Supporting Role,Lion,Dev Patel,Nominee
+95,2016,Actor in a Supporting Role,Nocturnal Animals,Michael Shannon,Nominee
+96,2017,Actor in a Supporting Role,"Three Billboards Outside Ebbing, Missouri",Sam Rockwell,Winner
+97,2017,Actor in a Supporting Role,The Florida Project,Willem Dafoe,Nominee
+98,2017,Actor in a Supporting Role,Call Me by Your Name,Armie Hammer,Nominee
+99,2017,Actor in a Supporting Role,Call Me by Your Name,Michael Stuhlbarg,Nominee
+100,2017,Actor in a Supporting Role,The Shape of Water,Richard Jenkins,Nominee
+101,2017,Actor in a Supporting Role,Logan,Patrick Stewart,Nominee
+102,2018,Actor in a Supporting Role,Green Book,Mahershala Ali,Winner
+103,2018,Actor in a Supporting Role,Beautiful Boy,Timothée Chalamet,Nominee
+104,2018,Actor in a Supporting Role,BlacKkKlansman,Adam Driver,Nominee
+105,2018,Actor in a Supporting Role,A Star Is Born,Sam Elliott,Nominee
+106,2018,Actor in a Supporting Role,Can You Ever Forgive Me?,Richard E. Grant,Nominee
+107,2018,Actor in a Supporting Role,Black Panther,Michael B. Jordan,Nominee
+108,2019,Actor in a Supporting Role,Once Upon a Time in Hollywood,Brad Pitt,Winner
+109,2019,Actor in a Supporting Role,The Lighthouse,Willem Dafoe,Nominee
+110,2019,Actor in a Supporting Role,A Beautiful Day in the Neighborhood,Tom Hanks,Nominee
+111,2019,Actor in a Supporting Role,The Two Popes,Anthony Hopkins,Nominee
+112,2019,Actor in a Supporting Role,The Irishman,Al Pacino,Nominee
+113,2019,Actor in a Supporting Role,The Irishman,Joe Pesci,Nominee
+114,2020,Actor in a Supporting Role,Judas and the Black Messiah,Daniel Kaluuya,Winner
+115,2020,Actor in a Supporting Role,The Trial of the Chicago 7,Sacha Baron Cohen,Nominee
+116,2020,Actor in a Supporting Role,Da 5 Bloods,Chadwick Boseman,Nominee
+117,2020,Actor in a Supporting Role,On the Rocks,Bill Murray,Nominee
+118,2020,Actor in a Supporting Role,One Night in Miami...,Leslie Odom Jr.,Nominee
+119,2020,Actor in a Supporting Role,Sound of Metal,Paul Raci,Nominee
+120,2021,Actor in a Supporting Role,CODA,Troy Kotsur,Winner
+121,2021,Actor in a Supporting Role,Belfast,Jamie Dornan,Nominee
+122,2021,Actor in a Supporting Role,Belfast,Ciarán Hinds,Nominee
+123,2021,Actor in a Supporting Role,House of Gucci,Jared Leto,Nominee
+124,2021,Actor in a Supporting Role,Being the Ricardos,J. K. Simmons,Nominee
+125,2021,Actor in a Supporting Role,The Power of the Dog,Kodi Smit-McPhee,Nominee
+126,2022,Actor in a Supporting Role,Everything Everywhere All at Once,Ke Huy Quan,Winner
+127,2022,Actor in a Supporting Role,The Fabelmans,Paul Dano,Nominee
+128,2022,Actor in a Supporting Role,The Banshees of Inisherin,Brendan Gleeson,Nominee
+129,2022,Actor in a Supporting Role,Causeway,Brian Tyree Henry,Nominee
+130,2022,Actor in a Supporting Role,The Fabelmans,Judd Hirsch,Nominee
+131,2022,Actor in a Supporting Role,The Banshees of Inisherin,Barry Keoghan,Nominee

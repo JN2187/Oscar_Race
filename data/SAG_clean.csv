@@ -1,0 +1,522 @@
+,year_ceremony,category,name,film,sag
+5,2020,Actress in a Leading Role,Cynthia Erivo,Harriet,Nominee
+6,2020,Actress in a Leading Role,Scarlett Johansson,Marriage Story,Nominee
+7,2020,Actress in a Leading Role,Lupita Nyong'O,Us,Nominee
+8,2020,Actress in a Leading Role,Charlize Theron,Bombshell,Nominee
+9,2020,Actress in a Leading Role,Renée Zellweger,Judy,Winner
+10,2020,Actor in a Leading Role,Christian Bale,Ford V Ferrari,Nominee
+11,2020,Actor in a Leading Role,Leonardo Dicaprio,Once Upon A Time...In Hollywood,Nominee
+12,2020,Actor in a Leading Role,Adam Driver,Marriage Story,Nominee
+13,2020,Actor in a Leading Role,Taron Egerton,Rocketman,Nominee
+14,2020,Actor in a Leading Role,Joaquin Phoenix,Joker,Winner
+15,2020,Actress in a Supporting Role,Laura Dern,Marriage Story,Winner
+16,2020,Actress in a Supporting Role,Scarlett Johansson,Jojo Rabbit,Nominee
+17,2020,Actress in a Supporting Role,Nicole Kidman,Bombshell,Nominee
+18,2020,Actress in a Supporting Role,Jennifer Lopez,Hustlers,Nominee
+19,2020,Actress in a Supporting Role,Margot Robbie,Bombshell,Nominee
+20,2020,Actor in a Supporting Role,Jamie Foxx,Just Mercy,Nominee
+21,2020,Actor in a Supporting Role,Tom Hanks,A Beautiful Day In The Neighborhood,Nominee
+22,2020,Actor in a Supporting Role,Al Pacino,The Irishman,Nominee
+23,2020,Actor in a Supporting Role,Joe Pesci,The Irishman,Nominee
+24,2020,Actor in a Supporting Role,Brad Pitt,Once Upon A Time...In Hollywood,Winner
+260,2019,Actress in a Leading Role,Lady Gaga,A Star Is Born ,Nominee
+261,2019,Actress in a Leading Role,Melissa Mccarthy,Can You Ever Forgive Me?,Nominee
+262,2019,Actress in a Leading Role,Emily Blunt,Mary Poppins Returns,Nominee
+263,2019,Actress in a Leading Role,Olivia Colman,The Favourite,Nominee
+264,2019,Actress in a Leading Role,Glenn Close,The Wife,Winner
+265,2019,Actress in a Supporting Role,Emily Blunt,A Quiet Place,Winner
+266,2019,Actress in a Supporting Role,Margot Robbie,Mary Queen Of Scots,Nominee
+267,2019,Actress in a Supporting Role,Emma Stone,The Favourite,Nominee
+268,2019,Actress in a Supporting Role,Rachel Weisz,The Favourite,Nominee
+269,2019,Actress in a Supporting Role,Amy Adams,Vice,Nominee
+285,2019,Actor in a Leading Role,Bradley Cooper,A Star Is Born ,Nominee
+286,2019,Actor in a Leading Role,John David Washington,Blackkklansman,Nominee
+287,2019,Actor in a Leading Role,Rami Malek,Bohemian Rhapsody,Winner
+288,2019,Actor in a Leading Role,Viggo Mortensen,Green Book,Nominee
+289,2019,Actor in a Leading Role,Christian Bale,Vice,Nominee
+290,2019,Actor in a Supporting Role,Sam Elliott,A Star Is Born,Nominee
+291,2019,Actor in a Supporting Role,Timothée Chalamet,Beautiful Boy ,Nominee
+292,2019,Actor in a Supporting Role,Adam Driver,Blackkklansman,Nominee
+293,2019,Actor in a Supporting Role,Richard E. Grant,Can You Ever Forgive Me?,Nominee
+294,2019,Actor in a Supporting Role,Mahershala Ali,Green Book,Winner
+547,2018,Actress in a Leading Role,Margot Robbie,"I, Tonya",Nominee
+548,2018,Actress in a Leading Role,Saoirse Ronan,Lady Bird,Nominee
+549,2018,Actress in a Leading Role,Sally Hawkins,The Shape Of Water,Nominee
+550,2018,Actress in a Leading Role,Frances Mcdormand,Three Billboards Outside Ebbing Missouri,Winner
+551,2018,Actress in a Leading Role,Judi Dench,Victoria & Abdul,Nominee
+552,2018,Actress in a Supporting Role,Hong Chau,Downsizing,Nominee
+553,2018,Actress in a Supporting Role,Allison Janney,"I, Tonya",Nominee
+554,2018,Actress in a Supporting Role,Laurie Metcalf,Lady Bird,Nominee
+555,2018,Actress in a Supporting Role,Mary J. Blige,Mudbound,Nominee
+556,2018,Actress in a Supporting Role,Holly Hunter,The Big Sick,Nominee
+573,2018,Actor in a Leading Role,Timothée Chalamet,Call Me By Your Name,Nominee
+574,2018,Actor in a Leading Role,Gary Oldman,Darkest Hour,Winner
+575,2018,Actor in a Leading Role,Daniel Kaluuya,Get Out,Nominee
+576,2018,Actor in a Leading Role,James Franco,The Disaster Artist,Nominee
+577,2018,Actor in a Supporting Role,Steve Carell,Battle Of The Sexes,Nominee
+578,2018,Actor in a Supporting Role,Willem Dafoe,The Florida Project,Nominee
+579,2018,Actor in a Supporting Role,Richard Jenkins,The Shape Of Water,Nominee
+580,2018,Actor in a Supporting Role,Sam Rockwell,Three Billboards Outside Ebbing Missouri,Winner
+581,2018,Actor in a Supporting Role,Woody Harrelson,Three Billboards Outside Ebbing Missouri,Nominee
+843,2017,Actress in a Leading Role,Amy Adams,Arrival,Nominee
+844,2017,Actress in a Leading Role,Meryl Streep,Florence Foster Jenkins,Nominee
+845,2017,Actress in a Leading Role,Natalie Portman,Jackie,Nominee
+846,2017,Actress in a Leading Role,Emma Stone,La La Land,Winner
+847,2017,Actress in a Leading Role,Emily Blunt,The Girl On The Train,Nominee
+848,2017,Actress in a Supporting Role,Viola Davis,Fences,Winner
+849,2017,Actress in a Supporting Role,Octavia Spencer,Hidden Figures,Nominee
+850,2017,Actress in a Supporting Role,Nicole Kidman,Lion,Nominee
+851,2017,Actress in a Supporting Role,Michelle Williams,Manchester By The Sea,Nominee
+852,2017,Actress in a Supporting Role,Naomie Harris,Moonlight,Nominee
+868,2017,Actor in a Leading Role,Viggo Mortensen,Captain Fantastic,Nominee
+869,2017,Actor in a Leading Role,Denzel Washington,Fences,Winner
+870,2017,Actor in a Leading Role,Andrew Garfield,Hacksaw Ridge,Nominee
+871,2017,Actor in a Leading Role,Ryan Gosling,La La Land,Nominee
+872,2017,Actor in a Leading Role,Casey Affleck,Manchester By The Sea,Nominee
+873,2017,Actor in a Supporting Role,Hugh Grant,Florence Foster Jenkins,Nominee
+874,2017,Actor in a Supporting Role,Jeff Bridges,Hell Or High Water,Nominee
+875,2017,Actor in a Supporting Role,Dev Patel,Lion,Nominee
+876,2017,Actor in a Supporting Role,Lucas Hedges,Manchester By The Sea,Nominee
+877,2017,Actor in a Supporting Role,Mahershala Ali,Moonlight,Winner
+1122,2016,Actress in a Leading Role,Saoirse Ronan,Brooklyn,Nominee
+1123,2016,Actress in a Leading Role,Cate Blanchett,Carol,Nominee
+1124,2016,Actress in a Leading Role,Sarah Silverman,I Smile Back,Nominee
+1125,2016,Actress in a Leading Role,Brie Larson,Room,Winner
+1126,2016,Actress in a Leading Role,Helen Mirren,Woman In Gold,Nominee
+1127,2016,Actress in a Supporting Role,Rooney Mara,Carol,Nominee
+1128,2016,Actress in a Supporting Role,Rachel Mcadams,Spotlight,Nominee
+1129,2016,Actress in a Supporting Role,Kate Winslet,Steve Jobs,Nominee
+1130,2016,Actress in a Supporting Role,Alicia Vikander,The Danish Girl,Winner
+1131,2016,Actress in a Supporting Role,Helen Mirren,Trumbo,Nominee
+1153,2016,Actor in a Leading Role,Johnny Depp,Black Mass,Nominee
+1154,2016,Actor in a Leading Role,Michael Fassbender,Steve Jobs,Nominee
+1155,2016,Actor in a Leading Role,Eddie Redmayne,The Danish Girl,Nominee
+1156,2016,Actor in a Leading Role,Leonardo Dicaprio,The Revenant,Winner
+1157,2016,Actor in a Leading Role,Bryan Cranston,Trumbo,Nominee
+1158,2016,Actor in a Supporting Role,Michael Shannon,99 Homes,Nominee
+1160,2016,Actor in a Supporting Role,Idris Elba,Beasts Of No Nation,Winner
+1162,2016,Actor in a Supporting Role,Mark Rylance,Bridge Of Spies,Nominee
+1164,2016,Actor in a Supporting Role,Jacob Tremblay,Room,Nominee
+1166,2016,Actor in a Supporting Role,Christian Bale,The Big Short,Nominee
+1407,2015,Actress in a Leading Role,Jennifer Aniston,Cake,Nominee
+1408,2015,Actress in a Leading Role,Rosamund Pike,Gone Girl,Nominee
+1409,2015,Actress in a Leading Role,Julianne Moore,Still Alice,Winner
+1410,2015,Actress in a Leading Role,Felicity Jones,The Theory Of Everything,Nominee
+1411,2015,Actress in a Leading Role,Reese Witherspoon,Wild,Nominee
+1412,2015,Actress in a Supporting Role,Emma Stone,Birdman,Nominee
+1413,2015,Actress in a Supporting Role,Patricia Arquette,Boyhood,Nominee
+1414,2015,Actress in a Supporting Role,Meryl Streep,Into The Woods,Nominee
+1415,2015,Actress in a Supporting Role,Naomi Watts,St. Vincent,Nominee
+1416,2015,Actress in a Supporting Role,Keira Knightley,The Imitation Game,Nominee
+1433,2015,Actor in a Leading Role,Michael Keaton,Birdman,Nominee
+1434,2015,Actor in a Leading Role,Steve Carell,Foxcatcher,Nominee
+1435,2015,Actor in a Leading Role,Jake Gyllenhaal,Nightcrawler,Nominee
+1436,2015,Actor in a Leading Role,Benedict Cumberbatch,The Imitation Game,Nominee
+1437,2015,Actor in a Leading Role,Eddie Redmayne,The Theory Of Everything,Winner
+1438,2015,Actor in a Supporting Role,Edward Norton,Birdman,Nominee
+1439,2015,Actor in a Supporting Role,Ethan Hawke,Boyhood,Nominee
+1440,2015,Actor in a Supporting Role,Mark Ruffalo,Foxcatcher,Nominee
+1441,2015,Actor in a Supporting Role,Robert Duvall,The Judge ,Nominee
+1442,2015,Actor in a Supporting Role,J.K. Simmons,Whiplash,Winner
+1694,2014,Actress in a Leading Role,Meryl Streep,August  Osage County,Nominee
+1695,2014,Actress in a Leading Role,Cate Blanchett,Blue Jasmine,Winner
+1696,2014,Actress in a Leading Role,Sandra Bullock,Gravity,Nominee
+1697,2014,Actress in a Leading Role,Judi Dench,Philomena,Nominee
+1698,2014,Actress in a Leading Role,Emma Thompson,Saving Mr. Banks,Nominee
+1699,2014,Actress in a Supporting Role,Lupita Nyong'O,12 Years A Slave,Winner
+1700,2014,Actress in a Supporting Role,Jennifer Lawrence,American Hustle,Nominee
+1701,2014,Actress in a Supporting Role,Julia Roberts,August  Osage County,Nominee
+1702,2014,Actress in a Supporting Role,Oprah Winfrey,Lee Daniels' The Butler,Nominee
+1703,2014,Actress in a Supporting Role,June Squibb,Nebraska,Nominee
+1720,2014,Actor in a Leading Role,Chiwetel Ejiofor,12 Years A Slave,Nominee
+1721,2014,Actor in a Leading Role,Tom Hanks,Captain Phillips,Nominee
+1722,2014,Actor in a Leading Role,Matthew Mcconaughey,Dallas Buyers Club,Winner
+1723,2014,Actor in a Leading Role,Forest Whitaker,Lee Daniels' The Butler,Nominee
+1724,2014,Actor in a Leading Role,Bruce Dern,Nebraska,Nominee
+1725,2014,Actor in a Supporting Role,Michael Fassbender,12 Years A Slave,Nominee
+1726,2014,Actor in a Supporting Role,Barkhad Abdi,Captain Phillips,Nominee
+1727,2014,Actor in a Supporting Role,Jared Leto,Dallas Buyers Club,Winner
+1728,2014,Actor in a Supporting Role,James Gandolfini,Enough Said,Nominee
+1729,2014,Actor in a Supporting Role,Daniel Brühl,Rush,Nominee
+1963,2013,Actress in a Leading Role,Helen Mirren,Hitchcock,Nominee
+1964,2013,Actress in a Leading Role,Marion Cotillard,Rust And Bone,Nominee
+1965,2013,Actress in a Leading Role,Jennifer Lawrence,Silver Linings Playbook,Winner
+1966,2013,Actress in a Leading Role,Naomi Watts,The Impossible,Nominee
+1967,2013,Actress in a Leading Role,Jessica Chastain,Zero Dark Thirty,Nominee
+1968,2013,Actress in a Supporting Role,Anne Hathaway,Les Misérables,Winner
+1969,2013,Actress in a Supporting Role,Sally Field,Lincoln,Nominee
+1970,2013,Actress in a Supporting Role,Maggie Smith,The Best Exotic Marigold Hotel,Nominee
+1971,2013,Actress in a Supporting Role,Nicole Kidman,The Paperboy,Nominee
+1972,2013,Actress in a Supporting Role,Helen Hunt,The Sessions,Nominee
+1989,2013,Actor in a Leading Role,Denzel Washington,Flight,Nominee
+1990,2013,Actor in a Leading Role,Hugh Jackman,Les Misérables,Nominee
+1991,2013,Actor in a Leading Role,Daniel Day-Lewis,Lincoln,Winner
+1992,2013,Actor in a Leading Role,Bradley Cooper,Silver Linings Playbook,Nominee
+1993,2013,Actor in a Leading Role,John Hawkes,The Sessions,Nominee
+1994,2013,Actor in a Supporting Role,Alan Arkin,Argo,Nominee
+1995,2013,Actor in a Supporting Role,Tommy Lee Jones,Lincoln,Winner
+1996,2013,Actor in a Supporting Role,Robert De Niro,Silver Linings Playbook,Nominee
+1997,2013,Actor in a Supporting Role,Javier Bardem,Skyfall,Nominee
+1998,2013,Actor in a Supporting Role,Philip Seymour Hoffman,The Master,Nominee
+2233,2012,Actress in a Leading Role,Glenn Close,Albert Nobbs,Nominee
+2234,2012,Actress in a Leading Role,Michelle Williams,My Week With Marilyn,Nominee
+2235,2012,Actress in a Leading Role,Viola Davis,The Help,Winner
+2236,2012,Actress in a Leading Role,Meryl Streep,The Iron Lady,Nominee
+2237,2012,Actress in a Leading Role,Tilda Swinton,We Need To Talk About Kevin,Nominee
+2238,2012,Actress in a Supporting Role,Janet Mcteer,Albert Nobbs,Nominee
+2239,2012,Actress in a Supporting Role,Melissa Mccarthy,Bridesmaids,Nominee
+2240,2012,Actress in a Supporting Role,Bérénice Bejo,The Artist,Nominee
+2241,2012,Actress in a Supporting Role,Jessica Chastain,The Help,Nominee
+2242,2012,Actress in a Supporting Role,Octavia Spencer,The Help,Winner
+2259,2012,Actor in a Leading Role,Demian Bichir,A Better Life,Nominee
+2260,2012,Actor in a Leading Role,Leonardo Dicaprio,J. Edgar,Nominee
+2261,2012,Actor in a Leading Role,Brad Pitt,Moneyball,Nominee
+2262,2012,Actor in a Leading Role,Jean Dujardin,The Artist,Winner
+2263,2012,Actor in a Leading Role,George Clooney,The Descendants,Nominee
+2264,2012,Actor in a Supporting Role,Christopher Plummer,Beginners,Winner
+2265,2012,Actor in a Supporting Role,Armie Hammer,J. Edgar,Nominee
+2266,2012,Actor in a Supporting Role,Jonah Hill,Moneyball,Nominee
+2267,2012,Actor in a Supporting Role,Kenneth Branagh,My Week With Marilyn,Nominee
+2268,2012,Actor in a Supporting Role,Nick Nolte,Warrior,Nominee
+2459,2011,Actress in a Leading Role,Natalie Portman,Black Swan,Winner
+2460,2011,Actress in a Leading Role,Hilary Swank,Conviction,Nominee
+2461,2011,Actress in a Leading Role,Nicole Kidman,Rabbit Hole,Nominee
+2462,2011,Actress in a Leading Role,Annette Bening,The Kids Are All Right,Nominee
+2463,2011,Actress in a Leading Role,Jennifer Lawrence,Winter'S Bone,Nominee
+2464,2011,Actress in a Supporting Role,Mila Kunis,Black Swan,Nominee
+2465,2011,Actress in a Supporting Role,Amy Adams,The Fighter,Nominee
+2466,2011,Actress in a Supporting Role,Melissa Leo,The Fighter,Winner
+2467,2011,Actress in a Supporting Role,Helena Bonham Carter,The King'S Speech,Nominee
+2468,2011,Actress in a Supporting Role,Hailee Steinfeld,True Grit,Nominee
+2485,2011,Actor in a Leading Role,James Franco,127 Hours,Nominee
+2486,2011,Actor in a Leading Role,Robert Duvall,Get Low,Nominee
+2487,2011,Actor in a Leading Role,Colin Firth,The King'S Speech,Winner
+2488,2011,Actor in a Leading Role,Jesse Eisenberg,The Social Network,Nominee
+2489,2011,Actor in a Leading Role,Jeff Bridges,True Grit,Nominee
+2490,2011,Actor in a Supporting Role,Christian Bale,The Fighter,Winner
+2491,2011,Actor in a Supporting Role,Mark Ruffalo,The Kids Are All Right,Nominee
+2492,2011,Actor in a Supporting Role,Geoffrey Rush,The King'S Speech,Nominee
+2493,2011,Actor in a Supporting Role,Jeremy Renner,The Town,Nominee
+2494,2011,Actor in a Supporting Role,John Hawkes,Winter'S Bone,Nominee
+2699,2010,Actress in a Leading Role,Carey Mulligan,An Education,Nominee
+2700,2010,Actress in a Leading Role,Meryl Streep,Julie & Julia,Nominee
+2701,2010,Actress in a Leading Role,Gabourey Sidibe,Precious,Nominee
+2702,2010,Actress in a Leading Role,Sandra Bullock,The Blind Side,Winner
+2703,2010,Actress in a Leading Role,Helen Mirren,The Last Station,Nominee
+2704,2010,Actress in a Supporting Role,Diane Kruger,Inglourious Basterds,Nominee
+2705,2010,Actress in a Supporting Role,Penélope Cruz,Nine,Nominee
+2706,2010,Actress in a Supporting Role,"Monique Angela ""Mo'Nique"" Hicks",Precious,Winner
+2707,2010,Actress in a Supporting Role,Anna Kendrick,Up In The Air,Nominee
+2708,2010,Actress in a Supporting Role,Vera Farminga,Up In The Air,Nominee
+2725,2010,Actor in a Leading Role,Colin Firth,A Single Man,Nominee
+2726,2010,Actor in a Leading Role,Jeff Bridges,Crazy Heart,Winner
+2727,2010,Actor in a Leading Role,Morgan Freeman,Invictus,Nominee
+2728,2010,Actor in a Leading Role,Jeremy Renner,The Hurt Locker,Nominee
+2729,2010,Actor in a Leading Role,George Clooney,Up In The Air,Nominee
+2730,2010,Actor in a Supporting Role,Christoph Waltz,Inglourious Basterds,Winner
+2731,2010,Actor in a Supporting Role,Matt Damon,Invictus,Nominee
+2732,2010,Actor in a Supporting Role,Christopher Plummer,The Last Station,Nominee
+2733,2010,Actor in a Supporting Role,Stanley Tucci,The Lovely Bones,Nominee
+2734,2010,Actor in a Supporting Role,Woody Harrelson,The Messenger,Nominee
+2944,2009,Actress in a Leading Role,Angelina Jolie,Changeling,Nominee
+2945,2009,Actress in a Leading Role,Meryl Streep,Doubt,Winner
+2946,2009,Actress in a Leading Role,Melissa Leo,Frozen River,Nominee
+2947,2009,Actress in a Leading Role,Anne Hathaway,Rachel Getting Married,Nominee
+2948,2009,Actress in a Leading Role,Kate Winslet,Revolutionary Road,Nominee
+2949,2009,Actress in a Supporting Role,Amy Adams,Doubt,Nominee
+2950,2009,Actress in a Supporting Role,Viola Davis,Doubt,Nominee
+2951,2009,Actress in a Supporting Role,Taraji P. Henson,The Curious Case Of Benjamin Button,Nominee
+2952,2009,Actress in a Supporting Role,Kate Winslet,The Reader,Winner
+2953,2009,Actress in a Supporting Role,Penélope Cruz,Vicky Cristina Barcelona,Nominee
+2970,2009,Actor in a Leading Role,Frank Langella,Frost/Nixon,Nominee
+2971,2009,Actor in a Leading Role,Sean Penn,Milk,Winner
+2972,2009,Actor in a Leading Role,Brad Pitt,The Curious Case Of Benjamin Button,Nominee
+2973,2009,Actor in a Leading Role,Richard Jenkins,The Visitor,Nominee
+2974,2009,Actor in a Leading Role,Mickey Rourke,The Wrestler,Nominee
+2975,2009,Actor in a Supporting Role,Philip Seymour Hoffman,Doubt,Nominee
+2976,2009,Actor in a Supporting Role,Josh Brolin,Milk,Nominee
+2977,2009,Actor in a Supporting Role,Dev Patel,Slumdog Millionaire,Nominee
+2978,2009,Actor in a Supporting Role,Heath Ledger,The Dark Knight,Winner
+2979,2009,Actor in a Supporting Role,"Robert Downey, Jr.",Tropic Thunder,Nominee
+3209,2008,Actress in a Leading Role,Angelina Jolie,A Mighty Heart,Nominee
+3210,2008,Actress in a Leading Role,Julie Christie,Away From Her,Winner
+3211,2008,Actress in a Leading Role,Cate Blanchett,Elizabeth: The Golden Age,Nominee
+3212,2008,Actress in a Leading Role,Ellen Page,Juno,Nominee
+3213,2008,Actress in a Leading Role,Marion Cotillard,La Vie En Rose,Nominee
+3214,2008,Actress in a Supporting Role,Ruby Dee,American Gangster,Winner
+3215,2008,Actress in a Supporting Role,Amy Ryan,Gone Baby Gone,Nominee
+3216,2008,Actress in a Supporting Role,Cate Blanchett,I'M Not There,Nominee
+3217,2008,Actress in a Supporting Role,Catherine Keener,Into The Wild,Nominee
+3218,2008,Actress in a Supporting Role,Tilda Swinton,Michael Clayton,Nominee
+3236,2008,Actor in a Leading Role,Viggo Mortensen,Eastern Promises,Nominee
+3237,2008,Actor in a Leading Role,Emile Hirsch,Into The Wild,Nominee
+3238,2008,Actor in a Leading Role,Ryan Gosling,Lars And The Real Girl,Nominee
+3239,2008,Actor in a Leading Role,George Clooney,Michael Clayton,Nominee
+3240,2008,Actor in a Leading Role,Daniel Day-Lewis,There Will Be Blood,Winner
+3241,2008,Actor in a Supporting Role,Hal Holbrook,Into The Wild,Nominee
+3242,2008,Actor in a Supporting Role,Tom Wilkinson,Michael Clayton,Nominee
+3243,2008,Actor in a Supporting Role,Javier Bardem,No Country For Old Men,Winner
+3244,2008,Actor in a Supporting Role,Tommy Lee Jones,No Country For Old Men,Nominee
+3245,2008,Actor in a Supporting Role,Casey Affleck,The Assination Of Jesse James By The Coward Robert Ford,Nominee
+3471,2007,Actress in a Leading Role,Kate Winslet,Little Children,Nominee
+3472,2007,Actress in a Leading Role,Judi Dench,Notes On A Scandal,Nominee
+3473,2007,Actress in a Leading Role,Meryl Streep,The Devil Wears Prada,Nominee
+3474,2007,Actress in a Leading Role,Helen Mirren,The Queen,Winner
+3475,2007,Actress in a Leading Role,Penélope Cruz,Volver,Nominee
+3476,2007,Actress in a Supporting Role,Adriana Barraza,Babel,Nominee
+3477,2007,Actress in a Supporting Role,Rinko Kikuchi,Babel,Nominee
+3478,2007,Actress in a Supporting Role,Jennifer Hudson,Dreamgirls,Winner
+3479,2007,Actress in a Supporting Role,Abigail Breslin,Little Miss Sunshine,Nominee
+3480,2007,Actress in a Supporting Role,Cate Blanchett,Notes On A Scandal,Nominee
+3497,2007,Actor in a Leading Role,Leonardo Dicaprio,Blood Diamond,Nominee
+3498,2007,Actor in a Leading Role,Ryan Gosling,Half Nelson,Nominee
+3499,2007,Actor in a Leading Role,Will Smith,Pursuit Of Happyness,Nominee
+3500,2007,Actor in a Leading Role,Forest Whitaker,The Last King Of Scotland,Winner
+3501,2007,Actor in a Leading Role,Peter O'Toole,Venus,Nominee
+3502,2007,Actor in a Supporting Role,Djimon Hounsou,Blood Diamond,Nominee
+3503,2007,Actor in a Supporting Role,Eddie Murphy,Dreamgirls,Winner
+3504,2007,Actor in a Supporting Role,Jackie Earle Haley,Little Children,Nominee
+3505,2007,Actor in a Supporting Role,Alan Arkin,Little Miss Sunshine,Nominee
+3506,2007,Actor in a Supporting Role,Leonardo Dicaprio,The Departed,Nominee
+3701,2006,Actress in a Leading Role,Ziyi Zhang,Memoirs Of A Geisha,Nominee
+3702,2006,Actress in a Leading Role,Judi Dench,Mrs. Henderson Presents,Nominee
+3703,2006,Actress in a Leading Role,Charlize Theron,North Country,Nominee
+3704,2006,Actress in a Leading Role,Felicity Huffman,Transamerica,Nominee
+3705,2006,Actress in a Leading Role,Reese Witherspoon,Walk The Line,Winner
+3706,2006,Actress in a Supporting Role,Michelle Williams,Brokeback Mountain,Nominee
+3707,2006,Actress in a Supporting Role,Catherine Keener,Capote,Nominee
+3708,2006,Actress in a Supporting Role,Amy Adams,Junebug,Nominee
+3709,2006,Actress in a Supporting Role,Frances Mcdormand,North Country,Nominee
+3710,2006,Actress in a Supporting Role,Rachel Weisz,The Constant Gardener,Winner
+3727,2006,Actor in a Leading Role,Heath Ledger,Brokeback Mountain,Nominee
+3728,2006,Actor in a Leading Role,Philip Seymour Hoffman,Capote,Winner
+3729,2006,Actor in a Leading Role,Russell Crowe,Cinderella Man,Nominee
+3730,2006,Actor in a Leading Role,David Strathairn,"Good Night, And Good Luck.",Nominee
+3731,2006,Actor in a Leading Role,Joaquin Phoenix,Walk The Line,Nominee
+3732,2006,Actor in a Supporting Role,Jake Gyllenhaal,Brokeback Mountain,Nominee
+3733,2006,Actor in a Supporting Role,Paul Giamatti,Cinderella Man,Winner
+3734,2006,Actor in a Supporting Role,Don Cheadle,Crash,Nominee
+3735,2006,Actor in a Supporting Role,Matt Dillon,Crash,Nominee
+3736,2006,Actor in a Supporting Role,George Clooney,Syriana,Nominee
+3892,2005,Actress in a Leading Role,Annette Bening,Being Julia,Nominee
+3893,2005,Actress in a Leading Role,Kate Winslet,Eternal Sunshine Of The Spotless Mind,Nominee
+3894,2005,Actress in a Leading Role,Catalina Sandino Moreno,Maria Full Of Grace,Nominee
+3895,2005,Actress in a Leading Role,Hilary Swank,Million Dollar Baby,Winner
+3896,2005,Actress in a Leading Role,Imelda Staunton,Vera Drake,Nominee
+3897,2005,Actress in a Supporting Role,Sophie Okonedo,Hotel Rwanda,Nominee
+3898,2005,Actress in a Supporting Role,Laura Linney,Kinsey,Nominee
+3899,2005,Actress in a Supporting Role,Virginia Madsen,Sideways,Nominee
+3900,2005,Actress in a Supporting Role,Cloris Leachman,Spanglish,Nominee
+3901,2005,Actress in a Supporting Role,Cate Blanchett,The Aviator,Winner
+3918,2005,Actor in a Leading Role,Johnny Depp,Finding Neverland,Nominee
+3919,2005,Actor in a Leading Role,Don Cheadle,Hotel Rwanda,Nominee
+3920,2005,Actor in a Leading Role,Jamie Foxx,Ray,Winner
+3921,2005,Actor in a Leading Role,Paul Giamatti,Sideways,Nominee
+3922,2005,Actor in a Leading Role,Leonardo Dicaprio,The Aviator,Nominee
+3923,2005,Actor in a Supporting Role,Jamie Foxx,Collateral,Nominee
+3924,2005,Actor in a Supporting Role,Freddie Highmore,Finding Neverland,Nominee
+3925,2005,Actor in a Supporting Role,Morgan Freeman,Million Dollar Baby,Winner
+3926,2005,Actor in a Supporting Role,Thomas Haden Church,Sideways,Nominee
+3927,2005,Actor in a Supporting Role,James Garner,The Notebook,Nominee
+4061,2004,Actress in a Leading Role,Naomi Watts,21 Grams,Nominee
+4062,2004,Actress in a Leading Role,Charlize Theron,Monster,Winner
+4063,2004,Actress in a Leading Role,Diane Keaton,Something'S Gotta Give,Nominee
+4064,2004,Actress in a Leading Role,Patricia Clarkson,The Station Agent,Nominee
+4065,2004,Actress in a Leading Role,Evan Rachel Wood,Thirteen,Nominee
+4066,2004,Actress in a Supporting Role,Renée Zellweger,Cold Mountain,Winner
+4067,2004,Actress in a Supporting Role,Patricia Clarkson,Pieces Of April,Nominee
+4068,2004,Actress in a Supporting Role,Maria Bello,The Cooler,Nominee
+4069,2004,Actress in a Supporting Role,Holly Hunter,Thirteen,Nominee
+4070,2004,Actress in a Supporting Role,Keisha Castle-Hughes,Whale Rider,Nominee
+4087,2004,Actor in a Leading Role,Ben Kingsley,House Of Sand And Fog,Nominee
+4088,2004,Actor in a Leading Role,Bill Murray,Lost In Translation,Nominee
+4089,2004,Actor in a Leading Role,Sean Penn,Mystic River,Nominee
+4090,2004,Actor in a Leading Role,Johnny Depp,Pirates Of The Caribbean: The Curse Of The Black Pearl,Winner
+4091,2004,Actor in a Leading Role,Peter Dinklage,The Station Agent,Nominee
+4092,2004,Actor in a Supporting Role,Benicio Del Toro,21 Grams,Nominee
+4093,2004,Actor in a Supporting Role,Tim Robbins,Mystic River,Winner
+4094,2004,Actor in a Supporting Role,Chris Cooper,Seabiscuit,Nominee
+4095,2004,Actor in a Supporting Role,Alec Baldwin,The Cooler,Nominee
+4096,2004,Actor in a Supporting Role,Ken Watanabe,The Last Samurai,Nominee
+4258,2003,Actress in a Leading Role,Renée Zellweger,Chicago,Winner
+4259,2003,Actress in a Leading Role,Julianne Moore,Far From Heaven,Nominee
+4260,2003,Actress in a Leading Role,Salma Hayek,Frida,Nominee
+4261,2003,Actress in a Leading Role,Nicole Kidman,The Hours,Nominee
+4262,2003,Actress in a Leading Role,Diane Lane,Unfaithful,Nominee
+4263,2003,Actress in a Supporting Role,Kathy Bates,About Schmidt,Nominee
+4264,2003,Actress in a Supporting Role,Catherine Zeta-Jones,Chicago,Winner
+4265,2003,Actress in a Supporting Role,Queen Latifah,Chicago,Nominee
+4266,2003,Actress in a Supporting Role,Julianne Moore,The Hours,Nominee
+4267,2003,Actress in a Supporting Role,Michelle Pfeiffer,White Oleander,Nominee
+4284,2003,Actor in a Leading Role,Jack Nicholson,About Schmidt,Nominee
+4285,2003,Actor in a Leading Role,Nicolas Cage,Adaptation,Nominee
+4286,2003,Actor in a Leading Role,Richard Gere,Chicago,Nominee
+4287,2003,Actor in a Leading Role,Daniel Day-Lewis,Gangs Of New York,Winner
+4288,2003,Actor in a Leading Role,Adrien Brody,The Pianist,Nominee
+4289,2003,Actor in a Supporting Role,Chris Cooper,Adaptation,Nominee
+4290,2003,Actor in a Supporting Role,Christopher Walken,Catch Me If You Can,Winner
+4291,2003,Actor in a Supporting Role,Dennis Quaid,Far From Heaven,Nominee
+4292,2003,Actor in a Supporting Role,Alfred Molina,Frida,Nominee
+4293,2003,Actor in a Supporting Role,Ed Harris,The Hours,Nominee
+4452,2002,Actress in a Leading Role,Jennifer Connelly,A Beautiful Mind,Nominee
+4453,2002,Actress in a Leading Role,Reneé Zellweger,Bridget Jones'S Diary,Nominee
+4454,2002,Actress in a Leading Role,Sissy Spacek,In The Bedroom,Nominee
+4455,2002,Actress in a Leading Role,Judi Dench,Iris,Nominee
+4456,2002,Actress in a Leading Role,Halle Berry,Monster'S Ball,Winner
+4457,2002,Actress in a Supporting Role,Cate Blanchett,Bandits,Nominee
+4458,2002,Actress in a Supporting Role,Helen Mirren,Gosford Park,Winner
+4459,2002,Actress in a Supporting Role,Dakota Fanning,I Am Sam,Nominee
+4460,2002,Actress in a Supporting Role,Judi Dench,The Shipping News,Nominee
+4461,2002,Actress in a Supporting Role,Cameron Diaz,Vanilla Sky,Nominee
+4478,2002,Actor in a Leading Role,Russell Crowe,A Beautiful Mind,Winner
+4479,2002,Actor in a Leading Role,Sean Penn,I Am Sam,Nominee
+4480,2002,Actor in a Leading Role,Tom Wilkinson,In The Bedroom,Nominee
+4481,2002,Actor in a Leading Role,Kevin Kline,Life As A House,Nominee
+4482,2002,Actor in a Leading Role,Denzel Washington,Training Day,Nominee
+4483,2002,Actor in a Supporting Role,Jim Broadbent,Iris,Nominee
+4484,2002,Actor in a Supporting Role,Hayden Christensen,Life As A House,Nominee
+4485,2002,Actor in a Supporting Role,Ian Mckellen,Lord Of The Rings: The Fellowship Of The Ring,Winner
+4486,2002,Actor in a Supporting Role,Ben Kingsley,Sexy Beast,Nominee
+4487,2002,Actor in a Supporting Role,Ethan Hawke,Training Day,Nominee
+4643,2001,Actress in a Leading Role,Juliette Binoche,Chocolat,Nominee
+4644,2001,Actress in a Leading Role,Julia Roberts,Erin Brockovich,Winner
+4645,2001,Actress in a Leading Role,Ellen Burstyn,Requiem For A Dream,Nominee
+4646,2001,Actress in a Leading Role,Joan Allen,The Contender,Nominee
+4647,2001,Actress in a Leading Role,Laura Linney,You Can Count On Me,Nominee
+4648,2001,Actress in a Supporting Role,Frances Mcdormand,Almost Famous,Nominee
+4649,2001,Actress in a Supporting Role,Kate Hudson,Almost Famous,Nominee
+4650,2001,Actress in a Supporting Role,Julie Walters,Billy Elliot,Nominee
+4651,2001,Actress in a Supporting Role,Judi Dench,Chocolat,Winner
+4652,2001,Actress in a Supporting Role,Kate Winslet,Quills,Nominee
+4669,2001,Actor in a Leading Role,Jamie Bell,Billy Elliot,Nominee
+4670,2001,Actor in a Leading Role,Tom Hanks,Cast Away,Nominee
+4671,2001,Actor in a Leading Role,Russell Crowe,Gladiator,Nominee
+4672,2001,Actor in a Leading Role,Geoffrey Rush,Quills,Nominee
+4673,2001,Actor in a Leading Role,Benicio Del Toro,Traffic,Winner
+4674,2001,Actor in a Supporting Role,Albert Finney,Erin Brockovich,Winner
+4675,2001,Actor in a Supporting Role,Joaquin Phoenix,Gladiator,Nominee
+4676,2001,Actor in a Supporting Role,Willem Dafoe,Shadow Of The Vampire,Nominee
+4677,2001,Actor in a Supporting Role,Gary Oldman,The Contender,Nominee
+4678,2001,Actor in a Supporting Role,Jeff Bridges,The Contender,Nominee
+4837,2000,Actress in a Leading Role,Annette Bening,American Beauty,Winner
+4838,2000,Actress in a Leading Role,Hilary Swank,Boys Don'T Cry,Nominee
+4839,2000,Actress in a Leading Role,Meryl Streep,Music Of The Heart,Nominee
+4840,2000,Actress in a Leading Role,Julianne Moore,The End Of The Affair,Nominee
+4841,2000,Actress in a Leading Role,Janet Mcteer,Tumbleweeds,Nominee
+4842,2000,Actress in a Supporting Role,Cameron Diaz,Being John Malkovich,Nominee
+4843,2000,Actress in a Supporting Role,Catherine Keener,Being John Malkovich,Nominee
+4844,2000,Actress in a Supporting Role,Chloë Sevigny,Boys Don'T Cry,Nominee
+4845,2000,Actress in a Supporting Role,Angelina Jolie,"Girl, Interrupted",Winner
+4846,2000,Actress in a Supporting Role,Julianne Moore,Magnolia,Nominee
+4863,2000,Actor in a Leading Role,Kevin Spacey,American Beauty,Winner
+4864,2000,Actor in a Leading Role,Philip Seymour Hoffman,Flawless,Nominee
+4865,2000,Actor in a Leading Role,Jim Carrey,Man On The Moon,Nominee
+4866,2000,Actor in a Leading Role,Denzel Washington,The Hurricane,Nominee
+4867,2000,Actor in a Leading Role,Russell Crowe,The Insider,Nominee
+4868,2000,Actor in a Supporting Role,Chris Cooper,American Beauty,Nominee
+4869,2000,Actor in a Supporting Role,Tom Cruise,Magnolia,Nominee
+4870,2000,Actor in a Supporting Role,Michael Caine,The Cider House Rules,Winner
+4871,2000,Actor in a Supporting Role,Michael Clarke Duncan,The Green Mile,Nominee
+4872,2000,Actor in a Supporting Role,Haley Joel Osment,The Sixth Sense,Nominee
+5015,1999,Actress in a Leading Role,Cate Blanchett,Elizabeth,Nominee
+5016,1999,Actress in a Leading Role,Emily Watson,Hilary And Jackie,Nominee
+5017,1999,Actress in a Leading Role,Jane Horrocks,Little Voice,Nominee
+5018,1999,Actress in a Leading Role,Meryl Streep,One True Thing,Nominee
+5019,1999,Actress in a Leading Role,Gwyneth Paltrow,Shakespeare In Love,Winner
+5020,1999,Actress in a Supporting Role,Lynn Redgrave,Gods And Monsters,Nominee
+5021,1999,Actress in a Supporting Role,Rachel Griffiths,Hilary And Jackie,Nominee
+5022,1999,Actress in a Supporting Role,Brenda Blethyn,Little Voice,Nominee
+5023,1999,Actress in a Supporting Role,Kathy Bates,Primary Colors,Winner
+5024,1999,Actress in a Supporting Role,Judi Dench,Shakespeare In Love,Nominee
+5041,1999,Actor in a Leading Role,Nick Nolte,Affliction,Nominee
+5042,1999,Actor in a Leading Role,Ian Mckellen,Gods And Monsters,Nominee
+5043,1999,Actor in a Leading Role,Roberto Benigni,Life Is Beautiful,Winner
+5044,1999,Actor in a Leading Role,Tom Hanks,Saving Private Ryan,Nominee
+5045,1999,Actor in a Leading Role,Joseph Fiennes,Shakespeare In Love,Nominee
+5046,1999,Actor in a Supporting Role,Robert Duvall,A Civil Action,Winner
+5047,1999,Actor in a Supporting Role,Billy Bob Thornton,A Simple Plan,Nominee
+5048,1999,Actor in a Supporting Role,James Coburn,Affliction,Nominee
+5049,1999,Actor in a Supporting Role,Geoffrey Rush,Shakespeare In Love,Nominee
+5050,1999,Actor in a Supporting Role,David Kelly,Waking Ned Devine,Nominee
+5197,1998,Actress in a Leading Role,Helen Hunt,As Good As It Gets,Winner
+5198,1998,Actress in a Leading Role,Pam Grier,Jackie Brown,Nominee
+5199,1998,Actress in a Leading Role,Judi Dench,Mrs. Brown,Nominee
+5200,1998,Actress in a Leading Role,Robin Wright,She'S So Lovely,Nominee
+5201,1998,Actress in a Leading Role,Helena Bonham Carter,The Wings Of The Dove,Nominee
+5202,1998,Actress in a Leading Role,Kate Winslet,Titanic,Nominee
+5203,1998,Actress in a Supporting Role,Julianne Moore,Boogie Nights,Nominee
+5204,1998,Actress in a Supporting Role,Minnie Driver,Good Will Hunting,Nominee
+5205,1998,Actress in a Supporting Role,Kim Basinger,L.A. Confidential,Winner
+5206,1998,Actress in a Supporting Role,Alison Elliott,The Wings Of The Dove,Nominee
+5207,1998,Actress in a Supporting Role,Gloria Stuart,Titanic,Winner
+5224,1998,Actor in a Leading Role,Jack Nicholson,As Good As It Gets,Winner
+5225,1998,Actor in a Leading Role,Matt Damon,Good Will Hunting,Nominee
+5226,1998,Actor in a Leading Role,Robert Duvall,The Apostle,Nominee
+5227,1998,Actor in a Leading Role,Peter Fonda,Ulee'S Gold,Nominee
+5228,1998,Actor in a Leading Role,Dustin Hoffman,Wag The Dog,Nominee
+5229,1998,Actor in a Supporting Role,Anthony Hopkins,Amistad,Nominee
+5230,1998,Actor in a Supporting Role,Greg Kinnear,As Good As It Gets,Nominee
+5231,1998,Actor in a Supporting Role,Burt Reynolds,Boogie Nights,Nominee
+5232,1998,Actor in a Supporting Role,Robin Williams,Good Will Hunting,Winner
+5233,1998,Actor in a Supporting Role,Billy Connolly,Mrs. Brown,Nominee
+5368,1997,Actress in a Leading Role,Frances Mcdormand,Fargo,Winner
+5369,1997,Actress in a Leading Role,Diane Keaton,Marvin'S Room,Nominee
+5370,1997,Actress in a Leading Role,Brenda Blethyn,Secrets & Lies,Nominee
+5371,1997,Actress in a Leading Role,Kristin Scott Thomas,The English Patient,Nominee
+5372,1997,Actress in a Leading Role,Gena Rowlands,Unhook The Stars,Nominee
+5373,1997,Actress in a Supporting Role,Renee Zellweger,Jerry Maguire,Nominee
+5374,1997,Actress in a Supporting Role,Gwen Verdon,Marvin'S Room,Nominee
+5375,1997,Actress in a Supporting Role,Juliette Binoche,The English Patent,Nominee
+5376,1997,Actress in a Supporting Role,Lauren Bacall,The Mirror Has Two Faces,Winner
+5377,1997,Actress in a Supporting Role,Marisa Tomei,Unhook The Stars,Nominee
+5394,1997,Actor in a Leading Role,Tom Cruise,Jerry Maguire,Nominee
+5395,1997,Actor in a Leading Role,Geoffrey Rush,Shine,Winner
+5396,1997,Actor in a Leading Role,Billy Bob Thornton,Sling Blade,Nominee
+5397,1997,Actor in a Leading Role,Ralph Fiennes,The English Patient,Nominee
+5398,1997,Actor in a Leading Role,Woody Harrelson,The People Vs. Larry Flynt,Nominee
+5399,1997,Actor in a Supporting Role,William H. Macy,Fargo,Nominee
+5400,1997,Actor in a Supporting Role,"Cuba Gooding, Jr.",Jerry Maguire,Winner
+5401,1997,Actor in a Supporting Role,Noah Taylor,Shine,Nominee
+5402,1997,Actor in a Supporting Role,Hank Azaria,The Birdcage,Nominee
+5403,1997,Actor in a Supporting Role,Nathan Lane,The Birdcage,Nominee
+5550,1996,Actress in a Leading Role,Susan Sarandon,Dead Man Walking,Winner
+5551,1996,Actress in a Leading Role,Elisabeth Shue,Leaving Las Vegas,Nominee
+5552,1996,Actress in a Leading Role,Joan Allen,Nixon,Nominee
+5553,1996,Actress in a Leading Role,Emma Thompson,Sense And Sensibility,Nominee
+5554,1996,Actress in a Leading Role,Meryl Streep,The Bridges Of Madison County,Nominee
+5555,1996,Actress in a Supporting Role,Mare Winningham,Georgia,Nominee
+5556,1996,Actress in a Supporting Role,Mira Sorvino,Mighty Aphrodite,Nominee
+5557,1996,Actress in a Supporting Role,Kate Winslet,Sense And Sensibility,Winner
+5558,1996,Actress in a Supporting Role,Stockard Channing,Smoke,Nominee
+5559,1996,Actress in a Supporting Role,Anjelica Huston,The Crossing Guard,Nominee
+5576,1996,Actor in a Leading Role,James Earl Jones,Cry The Beloved Country,Nominee
+5577,1996,Actor in a Leading Role,Sean Penn,Dead Man Walking,Nominee
+5578,1996,Actor in a Leading Role,Nicolas Cage,Leaving Las Vegas,Winner
+5579,1996,Actor in a Leading Role,Anthony Hopkins,Nixon,Nominee
+5580,1996,Actor in a Leading Role,Massimo Troisi,The Postman / Il Postino,Nominee
+5581,1996,Actor in a Supporting Role,Ed Harris,Apollo 13,Winner
+5582,1996,Actor in a Supporting Role,Don Cheadle,Devil In A Blue Dress,Nominee
+5583,1996,Actor in a Supporting Role,Kevin Bacon,Murder In The First,Nominee
+5584,1996,Actor in a Supporting Role,Kenneth Branagh,Othello,Nominee
+5585,1996,Actor in a Supporting Role,Kevin Spacey,The Usual Suspects,Nominee
+5683,1995,Actress in a Leading Role,Jessica Lange,Blue Sky,Nominee
+5684,1995,Actress in a Leading Role,Jodie Foster,Nell,Winner
+5685,1995,Actress in a Leading Role,Susan Sarandon,The Client,Nominee
+5686,1995,Actress in a Leading Role,Meryl Streep,The River Wild,Nominee
+5687,1995,Actress in a Leading Role,Meg Ryan,When A Man Loves A Woman,Nominee
+5688,1995,Actress in a Supporting Role,Dianne Wiest,Bullets Over Broadway,Winner
+5689,1995,Actress in a Supporting Role,Robin Wright,Forrest Gump,Nominee
+5690,1995,Actress in a Supporting Role,Sally Field,Forrest Gump,Nominee
+5691,1995,Actress in a Supporting Role,Uma Thurman,Pulp Fiction,Nominee
+5692,1995,Actress in a Supporting Role,Jamie Lee Curtis,True Lies,Nominee
+5709,1995,Actor in a Leading Role,Tom Hanks,Forrest Gump,Winner
+5710,1995,Actor in a Leading Role,Paul Newman,Nobody'S Fool,Nominee
+5711,1995,Actor in a Leading Role,John Travolta,Pulp Fiction,Nominee
+5712,1995,Actor in a Leading Role,Morgan Freeman,The Shawshank Redemption,Nominee
+5713,1995,Actor in a Leading Role,Tim Robbins,The Shawshank Redemption,Nominee
+5714,1995,Actor in a Supporting Role,Chazz Palminteri,Bullets Over Broadway,Nominee
+5715,1995,Actor in a Supporting Role,Martin Landau,Ed Wood,Winner
+5716,1995,Actor in a Supporting Role,Gary Sinise,Forrest Gump,Nominee
+5717,1995,Actor in a Supporting Role,Samuel L. Jackson,Pulp Fiction,Nominee
+5718,1995,Actor in a Supporting Role,John Turturro,Quiz Show,Nominee
+5756,2019,Actor in a Leading Role,Denzel Washington,Roman J. Israel,Nominee
