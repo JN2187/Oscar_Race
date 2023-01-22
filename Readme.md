@@ -1,6 +1,6 @@
 # Want to see the Oscar race? Check out this project
 
-![Leo Dance](https://media2.giphy.com/media/AbDCwAI2xTwTm/giphy.gif?cid=790b761162ebc2b65306a1767bceffddf4021c5583ae566e&rid=giphy.gif&ct=g)
+![Oscar](data/oscars.png)
 
 Since we are in the Oscar season, to make the wait more enjoyable I have created this project to analyze the Oscar race. I have compiled, filtered, cleaned and graphed information about the awards, from 1990 to 2020, that I consider most relevant to this race; Golden Globes, SAG (Screen Actor Guild Awards), Critics' Choice Movie Awards and of course the Oscars. In order to see the correlation of the awards and in the future, be able to make a predictive analysis of the winners, and keep it updated!
 
@@ -15,7 +15,31 @@ Since we are in the Oscar season, to make the wait more enjoyable I have created
 
 ## Getting Started
 
-Instructions on how to set up and install the project, including any dependencies that need to be installed.
+### Prerequisites
+
+- [Python](https://www.python.org/downloads/) 3.8 or later
+- [pip](https://pip.pypa.io/en/stable/installation/)
+- [Virtualenv](https://virtualenv.pypa.io/en/latest/) (optional)
+
+### Installation
+1. Clone the repository:
+https://github.com/JN2187/Oscar_Race.git
+2. Create a virtual environment (optional but recommended)
+
+### Dependencies
+This project depends on the following libraries:
+- pandas
+- re
+- [requests](https://pypi.org/project/requests/)
+- [BeautifulSoup](https://pypi.org/project/beautifulsoup4/)
+- [fuzzywuzzy](https://pypi.org/project/fuzzywuzzy/)
+- [matplotlib](https://pypi.org/project/matplotlib/)
+- [seaborn](https://pypi.org/project/seaborn/)
+- [pymongo](https://pypi.org/project/pymongo/)
+
+### Troubleshooting
+- If you run into issues installing the dependencies, make sure you have the latest version of pip and try again.
+
 
 ## Usage
 
@@ -48,3 +72,5 @@ List of any support channels, such as a mailing list or community forum, where u
 ## License
 
 The open-source license the project is released under.
+
+![Leo Dance](https://media2.giphy.com/media/AbDCwAI2xTwTm/giphy.gif?cid=790b761162ebc2b65306a1767bceffddf4021c5583ae566e&rid=giphy.gif&ct=g)
