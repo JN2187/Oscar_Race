@@ -1,13 +1,17 @@
-# <center> Want to see the Oscar race? Check out this project </center>
+# <center> The Oscar Race </center>
 
-![Oscar](https://www.towncenterzumpango.com.mx/wp-content/uploads/2020/01/premios-oscar-2020.jpg)
+
+
+<center><img src= "https://www.towncenterzumpango.com.mx/wp-content/uploads/2020/01/premios-oscar-2020.jpg" style="display: block; margin: 0 auto;"></center>
+
+## <center> Want to see the Oscar race? Check out this project </center>
 
 Since we are in the Oscar season, to make the wait more enjoyable I have created this project to analyze the Oscar race. I have compiled, filtered, cleaned and graphed information about the awards, from 1990 to 2020, that I consider most relevant to this race; Golden Globes, SAG (Screen Actor Guild Awards), Critics' Choice Movie Awards and of course the Oscars. In order to see the correlation of the awards and in the future, be able to make a predictive analysis of the winners, and keep it updated!
 
 ## Table of Contents
 1. [Getting Started](#getting-started)
 2. [Usage](#usage)
-3. [Examples](#examples)
+3. [Analysis](#analysis)
 4. [Documentation](#documentation)
 5. [Support](#support)
 
@@ -33,7 +37,6 @@ This project depends on the following libraries:
 - [requests](https://pypi.org/project/requests/)
 - [BeautifulSoup](https://pypi.org/project/beautifulsoup4/)
 - [fuzzywuzzy](https://pypi.org/project/fuzzywuzzy/)
-- [matplotlib](https://pypi.org/project/matplotlib/)
 - [seaborn](https://pypi.org/project/seaborn/)
 - [pymongo](https://pypi.org/project/pymongo/)
 
@@ -54,7 +57,7 @@ The ones I've created from these, with their respective cleaning and standardiza
 - [Golden_Globes_clean](data/Golden_Globes_clean.csv)
 - [SAG_clean](data/AG_clean.csv)
 
-And also the ones I´ve created from [wikipedia's](https://en.wikipedia.org/wiki/Critics%27_Choice_Movie_Awards#Categories) web scraping and their respective cleaning and standardization;
+Also the ones I´ve created from [wikipedia's](https://en.wikipedia.org/wiki/Critics%27_Choice_Movie_Awards#Categories) web scraping and their respective cleaning and standardization;
 - [Best_Picture_soup_cca](data/Best_Picture_soup_cca.csv)
 - [Actor_In_A_Leading_Role_soup_cca](data/Actor_In_A_Leading_Role_soup_cca.csv)
 - [Actor_In_A_Supporting_Role_soup_cca](data/Actor_In_A_Supporting_Role_soup_cca.csv)
@@ -62,17 +65,44 @@ And also the ones I´ve created from [wikipedia's](https://en.wikipedia.org/wiki
 - [Actress_In_A_Supporting_Role_soup_cca](data/Actress_In_A_Supporting_Role_soup_cca.csv)
 - [CCA_clean](data/CCA_clean.csv)
 
-And finally all awards gathered in a single csv:
+And all awards gathered in a single csv:
 - [Cinema_Awards](data/Cinema_Awards.csv)
 
-In the notebooks folder you can find the code I've used for each of the cleaning, web scraping, storage and visualization tasks.
+And finally a heatmap obtained form our analysis:
+- [Output](data/output.png)
+
+In the notebooks folder you can find the code I've used for;
+
+The cleaning
+- [CCA_Clean](notebooks/CCA_Clean.ipynb)
+- [Cinema_Award_clean](notebooks/Cinema_Award_clean.ipynb)
+- [Golden_Globes_Clean](notebooks/Golden_Globes_Clean.ipynb)
+- [Oscar_Clean](notebooks/Oscar_Clean.ipynb)
+- [SAG_Clean](notebooks/SAG_Clean.ipynb)
+
+Web scraping:
+- [BeautifulSoup_actors](notebooks/BeautifulSoup_actors.ipynb)
+- [BeautifulSoup_actress](notebooks/BeautifulSoup_actress.ipynb)
+- [BeautifulSoup_picture](notebooks/BeautifulSoup_picture.ipynb)
+- [BeautifulSoup_sup_actor](notebooks/BeautifulSoup_sup_actor.ipynb)
+- [BeautifulSoup_sup_actress](notebooks/BeautifulSoup_sup_actress.ipynb)
+
+Storage Visualization:
+- [Mongo_And_Visualization](notebooks/Mongo_And_Visualization.ipynb)
+
 
 In the src folder there is a .py document called [support](src/support.py) where all the functions that I have created for this project are collected.
 
 
-## Examples
+## Analysis
 
 In this project I have compiled information on the following categories, Best Actor and Actress, both lead and supporting, Best Director, Best Picture, Best Screenplay, both adapted and original since 1990 to 2020.
+
+My hypothesis is that the winners and nominees of the pre-Oscar awards give a lot of information about who is most likely to get it.
+
+The awards that have the highest correlation with the Oscars are the values closest to 1, in this case we can see that the winners of a Golden Globe as well as the SAGs have a positive value close to 1, therefore we can say that having won one of these has a direct effect on obtaining an Oscar. As well as having obtained a Critics' Choice Award does not have such an impact on the result, since its correlation is negative and close to 0.
+
+<center><img src= "data/output.png" width="400" height="300"style="display: block; margin: 0 auto;"></center>
 
 ## Documentation
 

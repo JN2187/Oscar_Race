@@ -638,7 +638,7 @@
 636,2004,Actor In A Supporting Role,Benicio Del Toro,21 Grams,Nominee,No,No,No
 637,2004,Actor In A Supporting Role,Djimon Hounsou,In America,Nominee,No,No,No
 638,2004,Actor In A Supporting Role,Tim Robbins,Mystic River,Winner,No,No,No
-639,2004,Actor In A Supporting Role,Ken Watanabe,The Last Samurai,Nominee,No,No,No
+639,2004,Actor In A Supporting Role,Ken Watanabe,The Twilight Samurai,Nominee,No,No,No
 640,2004,Actress In A Leading Role,Keisha Castle-Hughes,Whale Rider,Nominee,No,No,No
 641,2004,Actress In A Leading Role,Diane Keaton,Something'S Gotta Give,Nominee,No,No,No
 642,2004,Actress In A Leading Role,Samantha Morton,In America,Nominee,No,No,No
@@ -723,7 +723,7 @@
 721,2006,Actor In A Leading Role,Terrence Howard,Hustle & Flow,Nominee,No,No,No
 722,2006,Actor In A Leading Role,Heath Ledger,Brokeback Mountain,Nominee,No,No,No
 723,2006,Actor In A Leading Role,Joaquin Phoenix,Walk The Line,Nominee,No,No,No
-724,2006,Actor In A Leading Role,David Strathairn,"Good Night, And Good Luck",Nominee,No,No,No
+724,2006,Actor In A Leading Role,David Strathairn,"Good Night, And Good Luck.",Nominee,No,No,No
 725,2006,Actor In A Supporting Role,George Clooney,Syriana,Winner,No,No,No
 726,2006,Actor In A Supporting Role,Matt Dillon,Crash,Nominee,No,No,No
 727,2006,Actor In A Supporting Role,Paul Giamatti,Cinderella Man,Nominee,No,No,No
@@ -742,7 +742,7 @@
 740,2006,Directing,Ang Lee,Brokeback Mountain,Winner,No,No,No
 741,2006,Directing,Bennett Miller,Capote,Nominee,No,No,No
 742,2006,Directing,Paul Haggis,Crash,Nominee,No,No,No
-743,2006,Directing,George Clooney,"Good Night, And Good Luck",Nominee,No,No,No
+743,2006,Directing,George Clooney,"Good Night, And Good Luck.",Nominee,No,No,No
 744,2006,Directing,Steven Spielberg,Munich,Nominee,No,No,No
 745,2006,International Feature Film,Italy,Don'T Tell,Nominee,No,No,No
 746,2006,International Feature Film,France,Joyeux Noël,Nominee,No,No,No
@@ -752,7 +752,7 @@
 750,2006,Best Picture,"Diana Ossana and James Schamus, Producers",Brokeback Mountain,Nominee,No,No,No
 751,2006,Best Picture,"Caroline Baron, William Vince and Michael Ohoven, Producers",Capote,Nominee,No,No,No
 752,2006,Best Picture,"Paul Haggis and Cathy Schulman, Producers",Crash,Winner,No,No,No
-753,2006,Best Picture,"Grant Heslov, Producer","Good Night, And Good Luck",Nominee,No,No,No
+753,2006,Best Picture,"Grant Heslov, Producer","Good Night, And Good Luck.",Nominee,No,No,No
 754,2006,Best Picture,"Kathleen Kennedy, Steven Spielberg and Barry Mendel, Producers",Munich,Nominee,No,No,No
 755,2006,Writing (Adapted Screenplay),Screenplay by Larry McMurtry & Diana Ossana,Brokeback Mountain,Winner,No,No,No
 756,2006,Writing (Adapted Screenplay),Screenplay by Dan Futterman,Capote,Nominee,No,No,No
@@ -760,7 +760,7 @@
 758,2006,Writing (Adapted Screenplay),Screenplay by Josh Olson,A History Of Violence,Nominee,No,No,No
 759,2006,Writing (Adapted Screenplay),Screenplay by Tony Kushner and Eric Roth,Munich,Nominee,No,No,No
 760,2006,Writing (Original Screenplay),Screenplay by Paul Haggis & Bobby Moresco; Story by Paul Haggis,Crash,Winner,No,No,No
-761,2006,Writing (Original Screenplay),Screenplay by George Clooney & Grant Heslov,"Good Night, And Good Luck",Nominee,No,No,No
+761,2006,Writing (Original Screenplay),Screenplay by George Clooney & Grant Heslov,"Good Night, And Good Luck.",Nominee,No,No,No
 762,2006,Writing (Original Screenplay),Written by Woody Allen,Match Point,Nominee,No,No,No
 763,2006,Writing (Original Screenplay),Written by Noah Baumbach,"Squid And The Whale, The",Nominee,No,No,No
 764,2006,Writing (Original Screenplay),Written by Stephen Gaghan,Syriana,Nominee,No,No,No
@@ -900,10 +900,10 @@
 898,2009,Writing (Original Screenplay),Written by Dustin Lance Black,Milk,Winner,No,No,No
 899,2009,Writing (Original Screenplay),"Screenplay by Andrew Stanton, Jim Reardon; Original story by Andrew Stanton, Pete Docter",Wall-E,Nominee,No,No,No
 900,2010,Actor In A Leading Role,Jeff Bridges,Crazy Heart,Winner,No,No,No
-901,2010,Actor In A Leading Role,George Clooney,Up In The Air,Nominee,No,No,No
+901,2010,Actor In A Leading Role,George Clooney,Up,Nominee,No,No,No
 902,2010,Actor In A Leading Role,Colin Firth,A Single Man,Nominee,No,No,No
 903,2010,Actor In A Leading Role,Morgan Freeman,Invictus,Nominee,No,No,No
-904,2010,Actor In A Leading Role,Jeremy Renner,"Hurt Locker, The",Nominee,No,No,No
+904,2010,Actor In A Leading Role,Jeremy Renner,The Hurt Locker,Nominee,No,No,No
 905,2010,Actor In A Supporting Role,Matt Damon,Invictus,Nominee,No,No,No
 906,2010,Actor In A Supporting Role,Woody Harrelson,"Messenger, The",Nominee,No,No,No
 907,2010,Actor In A Supporting Role,Christopher Plummer,"Last Station, The",Nominee,No,No,No
@@ -915,15 +915,15 @@
 913,2010,Actress In A Leading Role,Gabourey Sidibe,Precious,Nominee,No,No,No
 914,2010,Actress In A Leading Role,Meryl Streep,Julie & Julia,Nominee,No,No,No
 915,2010,Actress In A Supporting Role,Penélope Cruz,Nine,Nominee,No,No,No
-916,2010,Actress In A Supporting Role,Vera Farmiga,Up In The Air,Nominee,No,No,No
+916,2010,Actress In A Supporting Role,Vera Farmiga,Up,Nominee,No,No,No
 917,2010,Actress In A Supporting Role,Maggie Gyllenhaal,Crazy Heart,Nominee,No,No,No
-918,2010,Actress In A Supporting Role,Anna Kendrick,Up In The Air,Nominee,No,No,No
+918,2010,Actress In A Supporting Role,Anna Kendrick,Up,Nominee,No,No,No
 919,2010,Actress In A Supporting Role,Mo'Nique,Precious,Winner,No,No,No
 920,2010,Directing,James Cameron,Avatar,Nominee,No,No,No
-921,2010,Directing,Kathryn Bigelow,"Hurt Locker, The",Winner,No,No,No
+921,2010,Directing,Kathryn Bigelow,The Hurt Locker,Winner,No,No,No
 922,2010,Directing,Quentin Tarantino,Inglourious Basterds,Nominee,No,No,No
 923,2010,Directing,Lee Daniels,Precious,Nominee,No,No,No
-924,2010,Directing,Jason Reitman,Up In The Air,Nominee,No,No,No
+924,2010,Directing,Jason Reitman,Up,Nominee,No,No,No
 925,2010,International Feature Film,Israel,Ajami,Nominee,No,No,No
 926,2010,International Feature Film,Peru,The Milk Of Sorrow,Nominee,No,No,No
 927,2010,International Feature Film,France,A Prophet,Nominee,No,No,No
@@ -933,18 +933,18 @@
 931,2010,Best Picture,"Gil Netter, Andrew A. Kosove and Broderick Johnson, Producers","Blind Side, The",Nominee,No,No,No
 932,2010,Best Picture,"Peter Jackson and Carolynne Cunningham, Producers",District 9,Nominee,No,No,No
 933,2010,Best Picture,"Finola Dwyer and Amanda Posey, Producers","Education, An",Nominee,No,No,No
-934,2010,Best Picture,"Kathryn Bigelow, Mark Boal, Nicolas Chartier and Greg Shapiro, Producers","Hurt Locker, The",Winner,No,No,No
+934,2010,Best Picture,"Kathryn Bigelow, Mark Boal, Nicolas Chartier and Greg Shapiro, Producers",The Hurt Locker,Winner,No,No,No
 935,2010,Best Picture,"Lawrence Bender, Producer",Inglourious Basterds,Nominee,No,No,No
 936,2010,Best Picture,"Lee Daniels, Sarah Siegel-Magness and Gary Magness, Producers",Precious,Nominee,No,No,No
 937,2010,Best Picture,"Joel Coen and Ethan Coen, Producers","Serious Man, A",Nominee,No,No,No
 938,2010,Best Picture,"Jonas Rivera, Producer",Up,Nominee,No,No,No
-939,2010,Best Picture,"Daniel Dubiecki, Ivan Reitman and Jason Reitman, Producers",Up In The Air,Nominee,No,No,No
+939,2010,Best Picture,"Daniel Dubiecki, Ivan Reitman and Jason Reitman, Producers",Up,Nominee,No,No,No
 940,2010,Writing (Adapted Screenplay),Written by Neill Blomkamp and Terri Tatchell,District 9,Nominee,No,No,No
 941,2010,Writing (Adapted Screenplay),Screenplay by Nick Hornby,"Education, An",Nominee,No,No,No
 942,2010,Writing (Adapted Screenplay),"Screenplay by Jesse Armstrong, Simon Blackwell, Armando Iannucci, Tony Roche",In The Loop,Nominee,No,No,No
 943,2010,Writing (Adapted Screenplay),Screenplay by Geoffrey Fletcher,Precious,Winner,No,No,No
-944,2010,Writing (Adapted Screenplay),Screenplay by Jason Reitman and Sheldon Turner,Up In The Air,Nominee,No,No,No
-945,2010,Writing (Original Screenplay),Written by Mark Boal,"Hurt Locker, The",Winner,No,No,No
+944,2010,Writing (Adapted Screenplay),Screenplay by Jason Reitman and Sheldon Turner,Up,Nominee,No,No,No
+945,2010,Writing (Original Screenplay),Written by Mark Boal,The Hurt Locker,Winner,No,No,No
 946,2010,Writing (Original Screenplay),Written by Quentin Tarantino,Inglourious Basterds,Nominee,No,No,No
 947,2010,Writing (Original Screenplay),Written by Alessandro Camon & Oren Moverman,"Messenger, The",Nominee,No,No,No
 948,2010,Writing (Original Screenplay),Written by Joel Coen & Ethan Coen,"Serious Man, A",Nominee,No,No,No
@@ -1169,7 +1169,7 @@
 1167,2015,Directing,Alejandro G. Iñárritu,Birdman,Winner,No,No,No
 1168,2015,Directing,Richard Linklater,Boyhood,Nominee,No,No,No
 1169,2015,Directing,Bennett Miller,Foxcatcher,Nominee,No,No,No
-1170,2015,Directing,Wes Anderson,The Grand Budapest Hotel,Nominee,No,No,No
+1170,2015,Directing,Wes Anderson,"Grand Budapest Hotel, The",Nominee,No,No,No
 1171,2015,Directing,Morten Tyldum,The Imitation Game,Nominee,No,No,No
 1172,2015,International Feature Film,Poland,Ida,Winner,No,No,No
 1173,2015,International Feature Film,Russia,Leviathan,Nominee,No,No,No
@@ -1179,7 +1179,7 @@
 1177,2015,Best Picture,"Clint Eastwood, Robert Lorenz, Andrew Lazar, Bradley Cooper and Peter Morgan, Producers",American Sniper,Nominee,No,No,No
 1178,2015,Best Picture,"Alejandro G. Iñárritu, John Lesher and James W. Skotchdopole, Producers",Birdman,Winner,No,No,No
 1179,2015,Best Picture,"Richard Linklater and Cathleen Sutherland, Producers",Boyhood,Nominee,No,No,No
-1180,2015,Best Picture,"Wes Anderson, Scott Rudin, Steven Rales and Jeremy Dawson, Producers",The Grand Budapest Hotel,Nominee,No,No,No
+1180,2015,Best Picture,"Wes Anderson, Scott Rudin, Steven Rales and Jeremy Dawson, Producers","Grand Budapest Hotel, The",Nominee,No,No,No
 1181,2015,Best Picture,"Nora Grossman, Ido Ostrowsky and Teddy Schwarzman, Producers",The Imitation Game,Nominee,No,No,No
 1182,2015,Best Picture,"Christian Colson, Oprah Winfrey, Dede Gardner and Jeremy Kleiner, Producers",Selma,Nominee,No,No,No
 1183,2015,Best Picture,"Tim Bevan, Eric Fellner, Lisa Bruce and Anthony McCarten, Producers",The Theory Of Everything,Nominee,No,No,No
@@ -1192,14 +1192,14 @@
 1190,2015,Writing (Original Screenplay),"Written by Alejandro G. Iñárritu, Nicolás Giacobone, Alexander Dinelaris, Jr. & Armando Bo",Birdman,Winner,No,No,No
 1191,2015,Writing (Original Screenplay),Written by Richard Linklater,Boyhood,Nominee,No,No,No
 1192,2015,Writing (Original Screenplay),Written by E. Max Frye and Dan Futterman,Foxcatcher,Nominee,No,No,No
-1193,2015,Writing (Original Screenplay),Screenplay by Wes Anderson; Story by Wes Anderson & Hugo Guinness,The Grand Budapest Hotel,Nominee,No,No,No
+1193,2015,Writing (Original Screenplay),Screenplay by Wes Anderson; Story by Wes Anderson & Hugo Guinness,"Grand Budapest Hotel, The",Nominee,No,No,No
 1194,2015,Writing (Original Screenplay),Written by Dan Gilroy,Nightcrawler,Nominee,No,No,No
 1195,2016,Actor In A Leading Role,Bryan Cranston,Trumbo,Nominee,No,No,No
 1196,2016,Actor In A Leading Role,Matt Damon,The Martian,Nominee,No,No,No
 1197,2016,Actor In A Leading Role,Leonardo DiCaprio,The Revenant,Winner,No,No,No
 1198,2016,Actor In A Leading Role,Michael Fassbender,Steve Jobs,Nominee,No,No,No
 1199,2016,Actor In A Leading Role,Eddie Redmayne,The Danish Girl,Nominee,No,No,No
-1200,2016,Actor In A Supporting Role,Christian Bale,"Big Short, The",Nominee,No,No,No
+1200,2016,Actor In A Supporting Role,Christian Bale,The Big Short,Nominee,No,No,No
 1201,2016,Actor In A Supporting Role,Tom Hardy,The Revenant,Nominee,No,No,No
 1202,2016,Actor In A Supporting Role,Mark Ruffalo,Spotlight,Nominee,No,No,No
 1203,2016,Actor In A Supporting Role,Mark Rylance,Bridge Of Spies,Winner,No,No,No
@@ -1214,7 +1214,7 @@
 1212,2016,Actress In A Supporting Role,Rachel McAdams,Spotlight,Nominee,No,No,No
 1213,2016,Actress In A Supporting Role,Alicia Vikander,The Danish Girl,Winner,No,No,No
 1214,2016,Actress In A Supporting Role,Kate Winslet,Steve Jobs,Nominee,No,No,No
-1215,2016,Directing,Adam McKay,"Big Short, The",Nominee,No,No,No
+1215,2016,Directing,Adam McKay,The Big Short,Nominee,No,No,No
 1216,2016,Directing,George Miller,Mad Max: Fury Road,Nominee,No,No,No
 1217,2016,Directing,Alejandro G. Iñárritu,The Revenant,Winner,No,No,No
 1218,2016,Directing,Lenny Abrahamson,Room,Nominee,No,No,No
@@ -1224,7 +1224,7 @@
 1222,2016,International Feature Film,Hungary,Son Of Saul,Winner,No,No,No
 1223,2016,International Feature Film,Jordan,Theeb,Nominee,No,No,No
 1224,2016,International Feature Film,Denmark,A War,Nominee,No,No,No
-1225,2016,Best Picture,"Brad Pitt, Dede Gardner and Jeremy Kleiner, Producers","Big Short, The",Nominee,No,No,No
+1225,2016,Best Picture,"Brad Pitt, Dede Gardner and Jeremy Kleiner, Producers",The Big Short,Nominee,No,No,No
 1226,2016,Best Picture,"Steven Spielberg, Marc Platt and Kristie Macosko Krieger, Producers",Bridge Of Spies,Nominee,No,No,No
 1227,2016,Best Picture,"Finola Dwyer and Amanda Posey, Producers",Brooklyn,Nominee,No,No,No
 1228,2016,Best Picture,"Doug Mitchell and George Miller, Producers",Mad Max: Fury Road,Nominee,No,No,No
@@ -1232,7 +1232,7 @@
 1230,2016,Best Picture,"Arnon Milchan, Steve Golin, Alejandro G. Iñárritu, Mary Parent and Keith Redmon, Producers",The Revenant,Nominee,No,No,No
 1231,2016,Best Picture,"Ed Guiney, Producer",Room,Nominee,No,No,No
 1232,2016,Best Picture,"Michael Sugar, Steve Golin, Nicole Rocklin and Blye Pagon Faust, Producers",Spotlight,Winner,No,No,No
-1233,2016,Writing (Adapted Screenplay),Screenplay by Charles Randolph and Adam McKay,"Big Short, The",Winner,No,No,No
+1233,2016,Writing (Adapted Screenplay),Screenplay by Charles Randolph and Adam McKay,The Big Short,Winner,No,No,No
 1234,2016,Writing (Adapted Screenplay),Screenplay by Nick Hornby,Brooklyn,Nominee,No,No,No
 1235,2016,Writing (Adapted Screenplay),Screenplay by Phyllis Nagy,Carol,Nominee,No,No,No
 1236,2016,Writing (Adapted Screenplay),Screenplay by Drew Goddard,The Martian,Nominee,No,No,No
@@ -2019,7 +2019,7 @@
 2017,2004,Actress In A Leading Role - Drama,Cate Blanchett,Veronica Guerin,No,Nominee,No,No
 2018,2004,Actor In A Leading Role - Drama,Sean Penn,Mystic River,No,Winner,No,No
 2019,2004,Actor In A Leading Role - Drama,Russell Crowe,Master And Commander: The Far Side Of The World,No,Nominee,No,No
-2020,2004,Actor In A Leading Role - Drama,Tom Cruise,The Last Samurai,No,Nominee,No,No
+2020,2004,Actor In A Leading Role - Drama,Tom Cruise,The Twilight Samurai,No,Nominee,No,No
 2021,2004,Actor In A Leading Role - Drama,Ben Kingsley,House Of Sand And Fog,No,Nominee,No,No
 2022,2004,Actor In A Leading Role - Drama,Jude Law,Cold Mountain,No,Nominee,No,No
 2023,2004,Actress In A Leading Role - Musical Or Comedy,Diane Keaton,Something'S Gotta Give,No,Winner,No,No
@@ -2038,7 +2038,7 @@
 2036,2004,Actress In A Supporting Role,Holly Hunter,Thirteen,No,Nominee,No,No
 2037,2004,Actress In A Supporting Role,Maria Bello,"Cooler, The",No,Nominee,No,No
 2038,2004,Actor In A Supporting Role,Tim Robbins,Mystic River,No,Winner,No,No
-2039,2004,Actor In A Supporting Role,Ken Watanabe,The Last Samurai,No,Nominee,No,No
+2039,2004,Actor In A Supporting Role,Ken Watanabe,The Twilight Samurai,No,Nominee,No,No
 2040,2004,Actor In A Supporting Role,Alec Baldwin,"Cooler, The",No,Nominee,No,No
 2041,2004,Actor In A Supporting Role,Albert Finney,Big Fish,No,Nominee,No,No
 2042,2004,Actor In A Supporting Role,William H. Macy,Seabiscuit,No,Nominee,No,No
@@ -2178,7 +2178,7 @@
 2176,2008,Actress In A Leading Role - Drama,Julie Christie,Away From Her,No,Winner,No,No
 2177,2008,Actress In A Leading Role - Drama,Cate Blanchett,Elizabeth:  The Golden Age,No,Nominee,No,No
 2178,2008,Actress In A Leading Role - Drama,Jodie Foster,"Brave One, The",No,Nominee,No,No
-2179,2008,Actress In A Leading Role - Drama,Angelina Jolie,"Mighty Heart, A",No,Nominee,No,No
+2179,2008,Actress In A Leading Role - Drama,Angelina Jolie,A Mighty Heart,No,Nominee,No,No
 2180,2008,Actress In A Leading Role - Drama,Keira Knightley,Atonement,No,Nominee,No,No
 2181,2008,Actor In A Leading Role - Drama,Daniel Day-Lewis,There Will Be Blood,No,Winner,No,No
 2182,2008,Actor In A Leading Role - Drama,Denzel Washington,American Gangster,No,Nominee,No,No
@@ -2201,7 +2201,7 @@
 2199,2008,Actress In A Supporting Role,Amy Ryan,Gone Baby Gone,No,Nominee,No,No
 2200,2008,Actress In A Supporting Role,Tilda Swinton,Michael Clayton,No,Nominee,No,No
 2201,2008,Actor In A Supporting Role,Javier Bardem,No Country For Old Men,No,Winner,No,No
-2202,2008,Actor In A Supporting Role,Casey Affleck,The Assination Of Jesse James By The Coward Robert Ford,No,Nominee,No,No
+2202,2008,Actor In A Supporting Role,Casey Affleck,"Assassination Of Jesse James By The Coward Robert Ford, The",No,Nominee,No,No
 2203,2008,Actor In A Supporting Role,Philip Seymour Hoffman,Charlie Wilson'S War,No,Nominee,No,No
 2204,2008,Actor In A Supporting Role,John Travolta,Hairspray,No,Nominee,No,No
 2205,2008,Actor In A Supporting Role,Tom Wilkinson,Michael Clayton,No,Nominee,No,No
@@ -2261,7 +2261,7 @@
 2259,2010,Actress In A Leading Role - Drama,Carey Mulligan,"Education, An",No,Nominee,No,No
 2260,2010,Actress In A Leading Role - Drama,Gabourey Sidibe,Precious,No,Nominee,No,No
 2261,2010,Actor In A Leading Role - Drama,Jeff Bridges,Crazy Heart,No,Winner,No,No
-2262,2010,Actor In A Leading Role - Drama,George Clooney,Up In The Air,No,Nominee,No,No
+2262,2010,Actor In A Leading Role - Drama,George Clooney,Up,No,Nominee,No,No
 2263,2010,Actor In A Leading Role - Drama,Colin Firth,A Single Man,No,Nominee,No,No
 2264,2010,Actor In A Leading Role - Drama,Morgan Freeman,Invictus,No,Nominee,No,No
 2265,2010,Actor In A Leading Role - Drama,Tobey Maguire,Brothers,No,Nominee,No,No
@@ -2276,8 +2276,8 @@
 2274,2010,Actor In A Leading Role - Musical Or Comedy,Joseph Gordon-Levitt,(500) Days Of Summer,No,Nominee,No,No
 2275,2010,Actor In A Leading Role - Musical Or Comedy,Michael Stuhlbarg,"Serious Man, A",No,Nominee,No,No
 2276,2010,Actress In A Supporting Role,Mo'Nique,Precious,No,Winner,No,No
-2277,2010,Actress In A Supporting Role,Vera Farmiga,Up In The Air,No,Nominee,No,No
-2278,2010,Actress In A Supporting Role,Anna Kendrick,Up In The Air,No,Nominee,No,No
+2277,2010,Actress In A Supporting Role,Vera Farmiga,Up,No,Nominee,No,No
+2278,2010,Actress In A Supporting Role,Anna Kendrick,Up,No,Nominee,No,No
 2279,2010,Actress In A Supporting Role,Julianne Moore,A Single Man,No,Nominee,No,No
 2280,2010,Actress In A Supporting Role,Penélope Cruz,Nine,No,Nominee,No,No
 2281,2010,Actor In A Supporting Role,Christoph Waltz,Inglourious Basterds,No,Winner,No,No
@@ -2287,10 +2287,10 @@
 2285,2010,Actor In A Supporting Role,Stanley Tucci,"Lovely Bones, The",No,Nominee,No,No
 2286,2010,Directing,James Cameron,Avatar,No,Winner,No,No
 2287,2010,Directing,Kathryn Bigelow,"Hurt Locker, The",No,Nominee,No,No
-2288,2010,Directing,Jason Reitman,Up In The Air,No,Nominee,No,No
+2288,2010,Directing,Jason Reitman,Up,No,Nominee,No,No
 2289,2010,Directing,Quentin Tarantino,Inglourious Basterds,No,Nominee,No,No
 2290,2010,Directing,Clint Eastwood,Invictus,No,Nominee,No,No
-2291,2010,Writing (Original Screenplay),"Jason Reitman, Sheldon Turner",Up In The Air,No,Winner,No,No
+2291,2010,Writing (Original Screenplay),"Jason Reitman, Sheldon Turner",Up,No,Winner,No,No
 2292,2010,Writing (Original Screenplay),"Neill Blomkamp, Terri Tatchell",District 9,No,Nominee,No,No
 2293,2010,Writing (Original Screenplay),Mark Boal,"Hurt Locker, The",No,Nominee,No,No
 2294,2010,Writing (Original Screenplay),Nancy Meyers,It'S Complicated,No,Nominee,No,No
@@ -2793,7 +2793,7 @@
 2791,2016,Actor In A Supporting Role,Idris Elba,Beasts Of No Nation,No,No,Winner,No
 2792,2016,Actor In A Supporting Role,Mark Rylance,Bridge Of Spies,No,No,Nominee,No
 2793,2016,Actor In A Supporting Role,Jacob Tremblay,Room,No,No,Nominee,No
-2794,2016,Actor In A Supporting Role,Christian Bale,"Big Short, The",No,No,Nominee,No
+2794,2016,Actor In A Supporting Role,Christian Bale,The Big Short,No,No,Nominee,No
 2795,2015,Actress In A Leading Role,Jennifer Aniston,Cake,No,No,Nominee,No
 2796,2015,Actress In A Leading Role,Rosamund Pike,Gone Girl,No,No,Nominee,No
 2797,2015,Actress In A Leading Role,Julianne Moore,Still Alice,No,No,Winner,No
@@ -2902,13 +2902,13 @@
 2900,2010,Actress In A Supporting Role,Diane Kruger,Inglourious Basterds,No,No,Nominee,No
 2901,2010,Actress In A Supporting Role,Penélope Cruz,Nine,No,No,Nominee,No
 2902,2010,Actress In A Supporting Role,"Monique Angela ""Mo'Nique"" Hicks",Precious,No,No,Winner,No
-2903,2010,Actress In A Supporting Role,Anna Kendrick,Up In The Air,No,No,Nominee,No
-2904,2010,Actress In A Supporting Role,Vera Farminga,Up In The Air,No,No,Nominee,No
+2903,2010,Actress In A Supporting Role,Anna Kendrick,Up,No,No,Nominee,No
+2904,2010,Actress In A Supporting Role,Vera Farminga,Up,No,No,Nominee,No
 2905,2010,Actor In A Leading Role,Colin Firth,A Single Man,No,No,Nominee,No
 2906,2010,Actor In A Leading Role,Jeff Bridges,Crazy Heart,No,No,Winner,No
 2907,2010,Actor In A Leading Role,Morgan Freeman,Invictus,No,No,Nominee,No
-2908,2010,Actor In A Leading Role,Jeremy Renner,"Hurt Locker, The",No,No,Nominee,No
-2909,2010,Actor In A Leading Role,George Clooney,Up In The Air,No,No,Nominee,No
+2908,2010,Actor In A Leading Role,Jeremy Renner,The Hurt Locker,No,No,Nominee,No
+2909,2010,Actor In A Leading Role,George Clooney,Up,No,No,Nominee,No
 2910,2010,Actor In A Supporting Role,Christoph Waltz,Inglourious Basterds,No,No,Winner,No
 2911,2010,Actor In A Supporting Role,Matt Damon,Invictus,No,No,Nominee,No
 2912,2010,Actor In A Supporting Role,Christopher Plummer,"Last Station, The",No,No,Nominee,No
@@ -2987,7 +2987,7 @@
 2985,2006,Actor In A Leading Role,Heath Ledger,Brokeback Mountain,No,No,Nominee,No
 2986,2006,Actor In A Leading Role,Philip Seymour Hoffman,Capote,No,No,Winner,No
 2987,2006,Actor In A Leading Role,Russell Crowe,Cinderella Man,No,No,Nominee,No
-2988,2006,Actor In A Leading Role,David Strathairn,"Good Night, And Good Luck",No,No,Nominee,No
+2988,2006,Actor In A Leading Role,David Strathairn,"Good Night, And Good Luck.",No,No,Nominee,No
 2989,2006,Actor In A Leading Role,Joaquin Phoenix,Walk The Line,No,No,Nominee,No
 2990,2006,Actor In A Supporting Role,Jake Gyllenhaal,Brokeback Mountain,No,No,Nominee,No
 2991,2006,Actor In A Supporting Role,Paul Giamatti,Cinderella Man,No,No,Winner,No
@@ -3033,7 +3033,7 @@
 3031,2004,Actor In A Supporting Role,Tim Robbins,Mystic River,No,No,Winner,No
 3032,2004,Actor In A Supporting Role,Chris Cooper,Seabiscuit,No,No,Nominee,No
 3033,2004,Actor In A Supporting Role,Alec Baldwin,"Cooler, The",No,No,Nominee,No
-3034,2004,Actor In A Supporting Role,Ken Watanabe,The Last Samurai,No,No,Nominee,No
+3034,2004,Actor In A Supporting Role,Ken Watanabe,The Twilight Samurai,No,No,Nominee,No
 3035,2003,Actress In A Leading Role,Renée Zellweger,Chicago,No,No,Winner,No
 3036,2003,Actress In A Leading Role,Julianne Moore,Far From Heaven,No,No,Nominee,No
 3037,2003,Actress In A Leading Role,Salma Hayek,Frida,No,No,Nominee,No
@@ -3293,7 +3293,7 @@
 3291,2003,Best Picture,Anthony Minghella,Cold Mountain,No,No,No,Nominee
 3292,2003,Best Picture,Andrew Stanton,Finding Nemo,No,No,No,Nominee
 3293,2003,Best Picture,Jim Sheridan,In America,No,No,No,Nominee
-3294,2003,Best Picture,Edward Zwick,The Last Samurai,No,No,No,Nominee
+3294,2003,Best Picture,Edward Zwick,The Twilight Samurai,No,No,No,Nominee
 3295,2003,Best Picture,Sofia Coppola,Lost In Translation,No,No,No,Nominee
 3296,2003,Best Picture,Peter Weir,Master And Commander: The Far Side Of The World,No,No,No,Nominee
 3297,2003,Best Picture,Clint Eastwood,Mystic River,No,No,No,Nominee
@@ -3313,7 +3313,7 @@
 3311,2005,Best Picture,Ron Howard,Cinderella Man,No,No,No,Nominee
 3312,2005,Best Picture,Fernando Meirelles,"Constant Gardener, The",No,No,No,Nominee
 3313,2005,Best Picture,Paul Haggis,Crash,No,No,No,Nominee
-3314,2005,Best Picture,George Clooney,"Good Night, And Good Luck",No,No,No,Nominee
+3314,2005,Best Picture,George Clooney,"Good Night, And Good Luck.",No,No,No,Nominee
 3315,2005,Best Picture,Peter Jackson,King Kong,No,No,No,Nominee
 3316,2005,Best Picture,Rob Marshall,Memoirs Of A Geisha,No,No,No,Nominee
 3317,2005,Best Picture,Steven Spielberg,Munich,No,No,No,Nominee
@@ -3348,7 +3348,7 @@
 3346,2008,Best Picture,Stephen Daldry,"Reader, The",No,No,No,Nominee
 3347,2008,Best Picture,Andrew Stanton,Wall-E,No,No,No,Nominee
 3348,2008,Best Picture,Darren Aronofsky,The Wrestler,No,No,No,Nominee
-3349,2009,Best Picture,Kathryn Bigelow,"Hurt Locker, The",No,No,No,Winner
+3349,2009,Best Picture,Kathryn Bigelow,The Hurt Locker,No,No,No,Winner
 3350,2009,Best Picture,James Cameron,Avatar,No,No,No,Nominee
 3351,2009,Best Picture,Lone Scherfig,"Education, An",No,No,No,Nominee
 3352,2009,Best Picture,Quentin Tarantino,Inglourious Basterds,No,No,No,Nominee
@@ -3357,7 +3357,7 @@
 3355,2009,Best Picture,Lee Daniels,Precious,No,No,No,Nominee
 3356,2009,Best Picture,Joel Coen and Ethan Coen,"Serious Man, A",No,No,No,Nominee
 3357,2009,Best Picture,Pete Docter,Up,No,No,No,Nominee
-3358,2009,Best Picture,Jason Reitman,Up In The Air,No,No,No,Nominee
+3358,2009,Best Picture,Jason Reitman,Up,No,No,No,Nominee
 3359,2010,Best Picture,David Fincher,The Social Network,No,No,No,Winner
 3360,2010,Best Picture,Danny Boyle,127 Hours,No,No,No,Nominee
 3361,2010,Best Picture,Darren Aronofsky,Black Swan,No,No,No,Nominee
@@ -3401,7 +3401,7 @@
 3399,2014,Best Picture,Richard Linklater,Boyhood,No,No,No,Winner
 3400,2014,Best Picture,Alejandro G. Iñárritu,Birdman,No,No,No,Nominee
 3401,2014,Best Picture,David Fincher,Gone Girl,No,No,No,Nominee
-3402,2014,Best Picture,Wes Anderson,The Grand Budapest Hotel,No,No,No,Nominee
+3402,2014,Best Picture,Wes Anderson,"Grand Budapest Hotel, The",No,No,No,Nominee
 3403,2014,Best Picture,Morten Tyldum,The Imitation Game,No,No,No,Nominee
 3404,2014,Best Picture,Dan Gilroy,Nightcrawler,No,No,No,Nominee
 3405,2014,Best Picture,Ava DuVernay,Selma,No,No,No,Nominee
@@ -3409,7 +3409,7 @@
 3407,2014,Best Picture,Angelina Jolie,Unbroken,No,No,No,Nominee
 3408,2014,Best Picture,Damien Chazelle,Whiplash,No,No,No,Nominee
 3409,2015,Best Picture,Tom McCarthy,Spotlight,No,No,No,Winner
-3410,2015,Best Picture,Adam McKay,"Big Short, The",No,No,No,Nominee
+3410,2015,Best Picture,Adam McKay,The Big Short,No,No,No,Nominee
 3411,2015,Best Picture,Steve Spielberg,Bridge Of Spies,No,No,No,Nominee
 3412,2015,Best Picture,John Crowley,Brooklyn,No,No,No,Nominee
 3413,2015,Best Picture,Todd Haynes,Carol,No,No,No,Nominee
@@ -3538,11 +3538,11 @@
 3536,2008,Actor In A Leading Role,Brad Pitt,The Curious Case Of Benjamin Button,No,No,No,Nominee
 3537,2008,Actor In A Leading Role,Mickey Rourke,The Wrestler,No,No,No,Nominee
 3538,2009,Actor In A Leading Role,Jeff Bridges,Crazy Heart,No,No,No,Winner
-3539,2009,Actor In A Leading Role,George Clooney,Up In The Air,No,No,No,Nominee
+3539,2009,Actor In A Leading Role,George Clooney,Up,No,No,No,Nominee
 3540,2009,Actor In A Leading Role,Colin Firth,A Single Man,No,No,No,Nominee
 3541,2009,Actor In A Leading Role,Morgan Freeman,Invictus,No,No,No,Nominee
 3542,2009,Actor In A Leading Role,Viggo Mortensen,The Road,No,No,No,Nominee
-3543,2009,Actor In A Leading Role,Jeremy Renner,"Hurt Locker, The",No,No,No,Nominee
+3543,2009,Actor In A Leading Role,Jeremy Renner,The Hurt Locker,No,No,No,Nominee
 3544,2010,Actor In A Leading Role,Colin Firth,The King'S Speech,No,No,No,Winner
 3545,2010,Actor In A Leading Role,Jeff Bridges,True Grit,No,No,No,Nominee
 3546,2010,Actor In A Leading Role,Robert Duvall,Get Low,No,No,No,Nominee
@@ -3569,7 +3569,7 @@
 3567,2013,Actor In A Leading Role,Robert Redford,All Is Lost,No,No,No,Nominee
 3568,2014,Actor In A Leading Role,Michael Keaton,Birdman,No,No,No,Winner
 3569,2014,Actor In A Leading Role,Benedict Cumberbatch,The Imitation Game,No,No,No,Nominee
-3570,2014,Actor In A Leading Role,Ralph Fiennes,The Grand Budapest Hotel,No,No,No,Nominee
+3570,2014,Actor In A Leading Role,Ralph Fiennes,"Grand Budapest Hotel, The",No,No,No,Nominee
 3571,2014,Actor In A Leading Role,Jake Gyllenhaal,Nightcrawler,No,No,No,Nominee
 3572,2014,Actor In A Leading Role,David Oyelowo,Selma,No,No,No,Nominee
 3573,2014,Actor In A Leading Role,Eddie Redmayne,The Theory Of Everything,No,No,No,Nominee
@@ -3780,7 +3780,7 @@
 3778,2003,Actor In A Supporting Role,Alec Baldwin,"Cooler, The",No,No,No,Nominee
 3779,2003,Actor In A Supporting Role,Paul Bettany,Master And Commander: The Far Side Of The World,No,No,No,Nominee
 3780,2003,Actor In A Supporting Role,Benicio del Toro,21 Grams,No,No,No,Nominee
-3781,2003,Actor In A Supporting Role,Ken Watanabe,The Last Samurai,No,No,No,Nominee
+3781,2003,Actor In A Supporting Role,Ken Watanabe,The Twilight Samurai,No,No,No,Nominee
 3782,2004,Actor In A Supporting Role,Thomas Haden Church,Sideways,No,No,No,Winner
 3783,2004,Actor In A Supporting Role,Jamie Foxx,Collateral,No,No,No,Nominee
 3784,2004,Actor In A Supporting Role,Morgan Freeman,Million Dollar Baby,No,No,No,Nominee
@@ -3941,8 +3941,8 @@
 3939,2008,Actor In A Supporting Role,Marisa Tomei,The Wrestler,No,No,No,Nominee
 3940,2009,Actor In A Supporting Role,Mo'Nique,Precious,No,No,No,Winner
 3941,2009,Actor In A Supporting Role,Marion Cotillard,Nine,No,No,No,Nominee
-3942,2009,Actor In A Supporting Role,Vera Farmiga,Up In The Air,No,No,No,Nominee
-3943,2009,Actor In A Supporting Role,Anna Kendrick,Up In The Air,No,No,No,Nominee
+3942,2009,Actor In A Supporting Role,Vera Farmiga,Up,No,No,No,Nominee
+3943,2009,Actor In A Supporting Role,Anna Kendrick,Up,No,No,No,Nominee
 3944,2009,Actor In A Supporting Role,Julianne Moore,A Single Man,No,No,No,Nominee
 3945,2009,Actor In A Supporting Role,Samantha Morton,"Messenger, The",No,No,No,Nominee
 3946,2010,Actor In A Supporting Role,Melissa Leo,The Fighter,No,No,No,Winner
