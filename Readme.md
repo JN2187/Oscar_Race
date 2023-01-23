@@ -112,7 +112,6 @@ In this project I have used the following Python libraries:
 - [requests](https://pypi.org/project/requests/)
 - [BeautifulSoup](https://pypi.org/project/beautifulsoup4/)
 - [fuzzywuzzy](https://pypi.org/project/fuzzywuzzy/)
-- [matplotlib](https://pypi.org/project/matplotlib/)
 - [seaborn](https://pypi.org/project/seaborn/)
 - [pymongo](https://pypi.org/project/pymongo/)
 
