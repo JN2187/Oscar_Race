@@ -112,12 +112,11 @@ In this project I have used the following Python libraries:
 - [requests](https://pypi.org/project/requests/)
 - [BeautifulSoup](https://pypi.org/project/beautifulsoup4/)
 - [fuzzywuzzy](https://pypi.org/project/fuzzywuzzy/)
-- [seaborn](https://pypi.org/project/seaborn/)
 - [pymongo](https://pypi.org/project/pymongo/)
-
+- [seaborn](https://pypi.org/project/seaborn/)
 ### Support
 
-If you have any questions or run into any issues, please contact me at [juanoncorrea@gmail.com](mailto:juanoncorrea@gmail.com)
+If you have any questions or run into any issues, please contact me at juanoncorrea@gmail.com
 
 ## <center>Enjoy! 🙌</center>
 <center><img src="https://media2.giphy.com/media/AbDCwAI2xTwTm/giphy.gif?cid=790b761162ebc2b65306a1767bceffddf4021c5583ae566e&rid=giphy.gif&ct=g" width="400" height="400" style="display: block; margin: 0 auto;"></center>
