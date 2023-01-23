@@ -102,7 +102,7 @@ My hypothesis is that the winners and nominees of the pre-Oscar awards give a lo
 
 The awards that have the highest correlation with the Oscars are the values closest to 1, in this case we can see that the winners of a Golden Globe as well as the SAGs have a positive value close to 1, therefore we can say that having won one of these has a direct effect on obtaining an Oscar. As well as having obtained a Critics' Choice Award does not have such an impact on the result, since its correlation is negative and close to 0.
 
-<center><img src= "data/output.png" width="400" height="400"style="display: block; margin: 0 auto;"></center>
+<center><img src= "data/output.png" width="500" height="400"style="display: block; margin: 0 auto;"></center>
 
 ## Documentation
 
